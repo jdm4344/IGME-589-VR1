@@ -1,0 +1,1403 @@
+﻿Log file open, 03/19/19 18:39:34
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPakFile: Display: Found Pak file ../../../VR_Interactions2/Content/Paks/VR_Interactions2-WindowsNoEditor.pak attempting to mount.
+LogPakFile: Display: Mounting pak file ../../../VR_Interactions2/Content/Paks/VR_Interactions2-WindowsNoEditor.pak.
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.245627
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
+LogPluginManager: Mounting plugin WindowsMixedReality
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.039s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.21-CL-4753647
+LogInit: Engine Version: 4.21.2-4753647+++UE4+Release-4.21
+LogInit: Compatible Engine Version: 4.21.0-4541578+++UE4+Release-4.21
+LogInit: Net CL: 4541578
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i7-7700K CPU @ 4.20GHz, GPU: NVIDIA GeForce GTX 1080 Ti
+LogInit: Compiled (64-bit): Jan 19 2019 02:14:43
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.21
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Users/Jordan/Downloads/Machalek_Sprint1_Final/Machalek_Sprint1_Final/Machalek_Sprint1_Build/WindowsNoEditor/VR_Interactions2/Binaries/Win64/
+LogInit: Installed Engine Build: 0
+LogDevObjectVersion: Number of dev versions registered: 22
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 26
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 27
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 17
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 4
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogStreaming: Display: Took  0.000s to delete old logs.
+LogInit: Presizing for max 2097152 objects, including 1 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogStreaming: Display: Async Loading initialized: Event Driven Loader: true, Async Loading Thread: false, Async Post Load: true
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.03.19-22.39.34:958][  0]LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+[2019.03.19-22.39.34:958][  0]LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.03.19-22.39.34:958][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [../../../VR_Interactions2/Saved/Config/WindowsNoEditor/Engine.ini]
+[2019.03.19-22.39.34:958][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.03.19-22.39.34:958][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusion:0]]
+[2019.03.19-22.39.34:958][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusionStaticFraction:0]]
+[2019.03.19-22.39.34:958][  0]LogConfig: Setting CVar [[vr.InstancedStereo:1]]
+[2019.03.19-22.39.34:958][  0]LogConfig: Setting CVar [[r.SeparateTranslucency:0]]
+[2019.03.19-22.39.34:958][  0]LogConfig: Setting CVar [[r.HZBOcclusion:0]]
+[2019.03.19-22.39.34:958][  0]LogConfig: Setting CVar [[r.SSR.MaxRoughness:0]]
+[2019.03.19-22.39.34:958][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.03.19-22.39.34:958][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [../../../VR_Interactions2/Saved/Config/WindowsNoEditor/Engine.ini]
+[2019.03.19-22.39.34:958][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [../../../VR_Interactions2/Saved/Config/WindowsNoEditor/Engine.ini]
+[2019.03.19-22.39.34:958][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.03.19-22.39.34:958][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.03.19-22.39.34:958][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.03.19-22.39.34:958][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.03.19-22.39.34:958][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.03.19-22.39.34:958][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.03.19-22.39.34:958][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.03.19-22.39.34:958][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.03.19-22.39.34:958][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.03.19-22.39.34:958][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.03.19-22.39.34:958][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.03.19-22.39.34:958][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.03.19-22.39.34:958][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.03.19-22.39.34:959][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [../../../VR_Interactions2/Saved/Config/WindowsNoEditor/Engine.ini]
+[2019.03.19-22.39.34:959][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.03.19-22.39.34:959][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.03.19-22.39.34:959][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.03.19-22.39.34:959][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.03.19-22.39.34:959][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.03.19-22.39.34:959][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.03.19-22.39.34:959][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:8388607]]
+[2019.03.19-22.39.34:959][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.03.19-22.39.34:959][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.03.19-22.39.34:959][  0]LogConfig: Setting CVar [[gc.MergeGCClusters:0]]
+[2019.03.19-22.39.34:959][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.03.19-22.39.34:959][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.03.19-22.39.34:959][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.03.19-22.39.34:959][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.03.19-22.39.34:959][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [../../../VR_Interactions2/Saved/Config/WindowsNoEditor/Engine.ini]
+[2019.03.19-22.39.34:962][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [../../../VR_Interactions2/Saved/Config/WindowsNoEditor/Scalability.ini]
+[2019.03.19-22.39.34:962][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.03.19-22.39.34:962][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.03.19-22.39.34:962][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [../../../VR_Interactions2/Saved/Config/WindowsNoEditor/Scalability.ini]
+[2019.03.19-22.39.34:962][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:3]]
+[2019.03.19-22.39.34:962][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [../../../VR_Interactions2/Saved/Config/WindowsNoEditor/Scalability.ini]
+[2019.03.19-22.39.34:962][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.03.19-22.39.34:962][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.03.19-22.39.34:962][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.03.19-22.39.34:962][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.03.19-22.39.34:962][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.03.19-22.39.34:963][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.03.19-22.39.34:963][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.03.19-22.39.34:963][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.03.19-22.39.34:963][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.03.19-22.39.34:963][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.03.19-22.39.34:963][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.03.19-22.39.34:963][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.03.19-22.39.34:963][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.03.19-22.39.34:963][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.03.19-22.39.34:963][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.03.19-22.39.34:963][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.03.19-22.39.34:963][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.03.19-22.39.34:963][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.03.19-22.39.34:963][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [../../../VR_Interactions2/Saved/Config/WindowsNoEditor/Scalability.ini]
+[2019.03.19-22.39.34:963][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:0]]
+[2019.03.19-22.39.34:963][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.03.19-22.39.34:963][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.03.19-22.39.34:963][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:0]]
+[2019.03.19-22.39.34:963][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.03.19-22.39.34:963][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:0]]
+[2019.03.19-22.39.34:963][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.03.19-22.39.34:963][  0]LogConfig: Setting CVar [[r.LensFlareQuality:0]]
+[2019.03.19-22.39.34:963][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:0]]
+[2019.03.19-22.39.34:963][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.03.19-22.39.34:963][  0]LogConfig: Setting CVar [[r.BloomQuality:1]]
+[2019.03.19-22.39.34:963][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:0]]
+[2019.03.19-22.39.34:963][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.03.19-22.39.34:963][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.03.19-22.39.34:963][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.03.19-22.39.34:963][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.03.19-22.39.34:963][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.03.19-22.39.34:963][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.03.19-22.39.34:963][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.03.19-22.39.34:963][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.03.19-22.39.34:963][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.03.19-22.39.34:963][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.03.19-22.39.34:963][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.03.19-22.39.34:963][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.03.19-22.39.34:963][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.03.19-22.39.34:963][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.03.19-22.39.34:963][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.03.19-22.39.34:963][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.03.19-22.39.34:963][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.03.19-22.39.34:963][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.03.19-22.39.34:963][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [../../../VR_Interactions2/Saved/Config/WindowsNoEditor/Scalability.ini]
+[2019.03.19-22.39.34:963][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.03.19-22.39.34:963][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.03.19-22.39.34:963][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.03.19-22.39.34:963][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.03.19-22.39.34:963][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.03.19-22.39.34:963][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.03.19-22.39.34:963][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.03.19-22.39.34:963][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.03.19-22.39.34:963][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [../../../VR_Interactions2/Saved/Config/WindowsNoEditor/Scalability.ini]
+[2019.03.19-22.39.34:963][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:4]]
+[2019.03.19-22.39.34:963][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.03.19-22.39.34:963][  0]LogConfig: Setting CVar [[r.SSR.Quality:0]]
+[2019.03.19-22.39.34:963][  0]LogConfig: Setting CVar [[r.SceneColorFormat:2]]
+[2019.03.19-22.39.34:963][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.03.19-22.39.34:963][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:0]]
+[2019.03.19-22.39.34:963][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.03.19-22.39.34:963][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.03.19-22.39.34:963][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.03.19-22.39.34:963][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.03.19-22.39.34:963][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.03.19-22.39.34:963][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.03.19-22.39.34:963][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.03.19-22.39.34:963][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [../../../VR_Interactions2/Saved/Config/WindowsNoEditor/Scalability.ini]
+[2019.03.19-22.39.34:963][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.03.19-22.39.34:963][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.03.19-22.39.34:963][  0]LogInit: Selected Device Profile: [WindowsNoEditor]
+[2019.03.19-22.39.34:963][  0]LogInit: Applying CVar settings loaded from the selected device profile: [WindowsNoEditor]
+[2019.03.19-22.39.34:968][  0]LogHAL: Display: Platform has ~ 32 GB [34321772544 / 34359738368 / 32], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.03.19-22.39.34:968][  0]LogInit: Going up to parent DeviceProfile [Windows]
+[2019.03.19-22.39.34:968][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:1]]
+[2019.03.19-22.39.34:968][  0]LogInit: Going up to parent DeviceProfile []
+[2019.03.19-22.39.34:968][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [../../../VR_Interactions2/Saved/Config/WindowsNoEditor/Scalability.ini]
+[2019.03.19-22.39.34:968][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.03.19-22.39.34:968][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.03.19-22.39.34:968][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [../../../VR_Interactions2/Saved/Config/WindowsNoEditor/Scalability.ini]
+[2019.03.19-22.39.34:968][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:3]]
+[2019.03.19-22.39.34:968][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [../../../VR_Interactions2/Saved/Config/WindowsNoEditor/Scalability.ini]
+[2019.03.19-22.39.34:968][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.03.19-22.39.34:968][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.03.19-22.39.34:968][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.03.19-22.39.34:968][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.03.19-22.39.34:968][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.03.19-22.39.34:968][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.03.19-22.39.34:968][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.03.19-22.39.34:968][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.03.19-22.39.34:968][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.03.19-22.39.34:968][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.03.19-22.39.34:968][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.03.19-22.39.34:968][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.03.19-22.39.34:968][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.03.19-22.39.34:968][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.03.19-22.39.34:968][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.03.19-22.39.34:968][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.03.19-22.39.34:968][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.03.19-22.39.34:968][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.03.19-22.39.34:968][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [../../../VR_Interactions2/Saved/Config/WindowsNoEditor/Scalability.ini]
+[2019.03.19-22.39.34:968][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:0]]
+[2019.03.19-22.39.34:968][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.03.19-22.39.34:968][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.03.19-22.39.34:968][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:0]]
+[2019.03.19-22.39.34:968][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.03.19-22.39.34:968][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:0]]
+[2019.03.19-22.39.34:968][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.03.19-22.39.34:968][  0]LogConfig: Setting CVar [[r.LensFlareQuality:0]]
+[2019.03.19-22.39.34:968][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:0]]
+[2019.03.19-22.39.34:968][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.03.19-22.39.34:968][  0]LogConfig: Setting CVar [[r.BloomQuality:1]]
+[2019.03.19-22.39.34:968][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:0]]
+[2019.03.19-22.39.34:968][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.03.19-22.39.34:968][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.03.19-22.39.34:968][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.03.19-22.39.34:968][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.03.19-22.39.34:968][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.03.19-22.39.34:968][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.03.19-22.39.34:968][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.03.19-22.39.34:968][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.03.19-22.39.34:968][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.03.19-22.39.34:968][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.03.19-22.39.34:968][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.03.19-22.39.34:968][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.03.19-22.39.34:968][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.03.19-22.39.34:968][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.03.19-22.39.34:968][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.03.19-22.39.34:968][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.03.19-22.39.34:968][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.03.19-22.39.34:968][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.03.19-22.39.34:968][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [../../../VR_Interactions2/Saved/Config/WindowsNoEditor/Scalability.ini]
+[2019.03.19-22.39.34:968][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.03.19-22.39.34:968][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.03.19-22.39.34:968][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.03.19-22.39.34:968][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.03.19-22.39.34:968][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.03.19-22.39.34:968][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.03.19-22.39.34:968][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.03.19-22.39.34:968][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.03.19-22.39.34:968][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [../../../VR_Interactions2/Saved/Config/WindowsNoEditor/Scalability.ini]
+[2019.03.19-22.39.34:968][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:4]]
+[2019.03.19-22.39.34:968][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.03.19-22.39.34:968][  0]LogConfig: Setting CVar [[r.SSR.Quality:0]]
+[2019.03.19-22.39.34:968][  0]LogConfig: Setting CVar [[r.SceneColorFormat:2]]
+[2019.03.19-22.39.34:968][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.03.19-22.39.34:968][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:0]]
+[2019.03.19-22.39.34:968][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.03.19-22.39.34:968][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.03.19-22.39.34:968][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.03.19-22.39.34:968][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.03.19-22.39.34:968][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.03.19-22.39.34:968][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.03.19-22.39.34:968][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.03.19-22.39.34:968][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [../../../VR_Interactions2/Saved/Config/WindowsNoEditor/Scalability.ini]
+[2019.03.19-22.39.34:968][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.03.19-22.39.34:968][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.03.19-22.39.34:969][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.03.19-22.39.34:969][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.03.19-22.39.34:969][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [../../../VR_Interactions2/Saved/Config/WindowsNoEditor/Engine.ini]
+[2019.03.19-22.39.34:969][  0]LogInit: Computer: DESKTOP-LHIUEOO
+[2019.03.19-22.39.34:969][  0]LogInit: User: Jordan
+[2019.03.19-22.39.34:969][  0]LogInit: CPU Page size=4096, Cores=4
+[2019.03.19-22.39.34:969][  0]LogInit: High frequency timer resolution =4.101563 MHz
+[2019.03.19-22.39.34:969][  0]LogMemory: Memory total: Physical=32.0GB (32GB approx)
+[2019.03.19-22.39.34:969][  0]LogMemory: Platform Memory Stats for WindowsNoEditor
+[2019.03.19-22.39.34:969][  0]LogMemory: Process Physical Memory: 55.07 MB used, 55.07 MB peak
+[2019.03.19-22.39.34:969][  0]LogMemory: Process Virtual Memory: 65.20 MB used, 65.20 MB peak
+[2019.03.19-22.39.34:969][  0]LogMemory: Physical Memory: 10647.56 MB used,  22084.23 MB free, 32731.79 MB total
+[2019.03.19-22.39.34:969][  0]LogMemory: Virtual Memory: 4437.88 MB used,  134213288.00 MB free, 134217728.00 MB total
+[2019.03.19-22.39.35:489][  0]LogInit: Using OS detected language (en-US).
+[2019.03.19-22.39.35:489][  0]LogInit: Using OS detected locale (en-US).
+[2019.03.19-22.39.35:489][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2019.03.19-22.39.35:506][  0]LogStreaming: Display: Took  0.017s to InitEngineTextLocalization.
+[2019.03.19-22.39.35:522][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.03.19-22.39.35:522][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.03.19-22.39.35:540][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.03.19-22.39.35:540][  0]LogD3D11RHI: D3D11 adapters:
+[2019.03.19-22.39.35:592][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1080 Ti' (Feature Level 11_0)
+[2019.03.19-22.39.35:592][  0]LogD3D11RHI:       11127/0/16365 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2019.03.19-22.39.35:593][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.03.19-22.39.35:593][  0]LogD3D11RHI:       0/0/16365 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.03.19-22.39.35:593][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.03.19-22.39.35:600][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.03.19-22.39.35:600][  0]LogD3D11RHI:     GPU DeviceId: 0x1b06 (for the marketing name, search the web for "GPU Device Id")
+[2019.03.19-22.39.35:600][  0]LogWindows: EnumDisplayDevices:
+[2019.03.19-22.39.35:600][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1080 Ti' (P:1 D:1)
+[2019.03.19-22.39.35:601][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1080 Ti' (P:0 D:0)
+[2019.03.19-22.39.35:601][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1080 Ti' (P:0 D:0)
+[2019.03.19-22.39.35:601][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1080 Ti' (P:0 D:0)
+[2019.03.19-22.39.35:601][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2019.03.19-22.39.35:601][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1080 Ti
+[2019.03.19-22.39.35:601][  0]LogD3D11RHI:   Driver Version: 418.91 (internal:25.21.14.1891, unified:418.91)
+[2019.03.19-22.39.35:601][  0]LogD3D11RHI:      Driver Date: 2-6-2019
+[2019.03.19-22.39.35:601][  0]LogRHI: Texture pool is 7788 MB (70% of 11127 MB)
+[2019.03.19-22.39.35:634][  0]LogD3D11RHI: Async texture creation enabled
+[2019.03.19-22.39.35:650][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2019.03.19-22.39.35:693][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: Global and no native library supported.
+[2019.03.19-22.39.35:693][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: Global_SC and no native library supported.
+[2019.03.19-22.39.35:693][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: Paper2D and no native library supported.
+[2019.03.19-22.39.35:693][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: Paper2D_SC and no native library supported.
+[2019.03.19-22.39.35:693][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: Paper2D and no native library supported.
+[2019.03.19-22.39.35:693][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: Paper2D_SC and no native library supported.
+[2019.03.19-22.39.35:694][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: CryptoKeys and no native library supported.
+[2019.03.19-22.39.35:694][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: CryptoKeys_SC and no native library supported.
+[2019.03.19-22.39.35:694][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: CryptoKeys and no native library supported.
+[2019.03.19-22.39.35:694][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: CryptoKeys_SC and no native library supported.
+[2019.03.19-22.39.35:694][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: MeshEditor and no native library supported.
+[2019.03.19-22.39.35:694][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: MeshEditor_SC and no native library supported.
+[2019.03.19-22.39.35:694][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: MeshEditor and no native library supported.
+[2019.03.19-22.39.35:694][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: MeshEditor_SC and no native library supported.
+[2019.03.19-22.39.35:694][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: DatasmithContent and no native library supported.
+[2019.03.19-22.39.35:694][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: DatasmithContent_SC and no native library supported.
+[2019.03.19-22.39.35:694][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: DatasmithContent and no native library supported.
+[2019.03.19-22.39.35:694][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: DatasmithContent_SC and no native library supported.
+[2019.03.19-22.39.35:694][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: VariantManagerContent and no native library supported.
+[2019.03.19-22.39.35:694][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: VariantManagerContent_SC and no native library supported.
+[2019.03.19-22.39.35:694][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: VariantManagerContent and no native library supported.
+[2019.03.19-22.39.35:694][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: VariantManagerContent_SC and no native library supported.
+[2019.03.19-22.39.35:694][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: MediaCompositing and no native library supported.
+[2019.03.19-22.39.35:694][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: MediaCompositing_SC and no native library supported.
+[2019.03.19-22.39.35:694][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: MediaCompositing and no native library supported.
+[2019.03.19-22.39.35:694][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: MediaCompositing_SC and no native library supported.
+[2019.03.19-22.39.35:694][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: OculusVR and no native library supported.
+[2019.03.19-22.39.35:695][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: OculusVR_SC and no native library supported.
+[2019.03.19-22.39.35:695][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: OculusVR and no native library supported.
+[2019.03.19-22.39.35:695][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: OculusVR_SC and no native library supported.
+[2019.03.19-22.39.35:695][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: SteamVR and no native library supported.
+[2019.03.19-22.39.35:695][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: SteamVR_SC and no native library supported.
+[2019.03.19-22.39.35:695][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: SteamVR and no native library supported.
+[2019.03.19-22.39.35:695][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: SteamVR_SC and no native library supported.
+[2019.03.19-22.39.35:705][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.03.19-22.39.35:729][  0]LogSlate: Using FreeType 2.6.0
+[2019.03.19-22.39.35:729][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.03.19-22.39.35:767][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: VR_Interactions2 and no native library supported.
+[2019.03.19-22.39.35:768][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: VR_Interactions2_SC and no native library supported.
+[2019.03.19-22.39.35:768][  0]LogRHI: Display: Opened pipeline cache after state change and enqueued 0 of 0 tasks for precompile.
+[2019.03.19-22.39.35:768][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: VR_Interactions2 and no native library supported.
+[2019.03.19-22.39.35:768][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: VR_Interactions2_SC and no native library supported.
+[2019.03.19-22.39.35:768][  0]LogRHI: Display: Opened pipeline cache after state change and enqueued 0 of 0 tasks for precompile.
+[2019.03.19-22.39.35:768][  0]LogRHI: Display: Failed to open default shader pipeline cache for VR_Interactions2 using shader platform 0.
+[2019.03.19-22.39.35:768][  0]LogInit: Using OS detected language (en-US).
+[2019.03.19-22.39.35:768][  0]LogInit: Using OS detected locale (en-US).
+[2019.03.19-22.39.35:768][  0]LogTextLocalizationManager: No localization for 'en-US' exists, so 'en' will be used for the language.
+[2019.03.19-22.39.35:768][  0]LogTextLocalizationManager: No localization for 'en-US' exists, so 'en' will be used for the locale.
+[2019.03.19-22.39.35:769][  0]LogSlate: FontCache flush requested. Reason: Culture for localization was changed
+[2019.03.19-22.39.35:769][  0]LogSlate: FontCache flush requested. Reason: Culture for localization was changed
+[2019.03.19-22.39.35:788][  0]LogStreaming: Display: Took  0.020s to InitGameTextLocalization.
+[2019.03.19-22.39.35:796][  0]LogAssetRegistry: FAssetRegistry took 0.0080 seconds to start up
+[2019.03.19-22.39.35:879][  0]LogStreaming: Display: Flushing async loaders.
+[2019.03.19-22.39.35:885][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 1 prioritized culture(s) in 0.005828 seconds
+[2019.03.19-22.39.35:886][  0]LogPakFile: New pak file ../../../VR_Interactions2/Content/Paks/VR_Interactions2-WindowsNoEditor.pak added to pak precacher.
+[2019.03.19-22.39.35:887][  0]LogInit: Selected Device Profile: [WindowsNoEditor]
+[2019.03.19-22.39.35:895][  0]LogNetVersion: VR_Interactions2 1.0.0, NetCL: 4541578, EngineNetVer: 5, GameNetVer: 0 (Checksum: 3712866953)
+[2019.03.19-22.39.36:091][  0]LogMoviePlayer: Initializing movie player
+[2019.03.19-22.39.36:179][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.03.19-22.39.36:179][  0]LogOcInput: OculusInput pre-init called
+[2019.03.19-22.39.36:183][  0]LogUObjectArray: 34988 objects as part of root set at end of initial load.
+[2019.03.19-22.39.36:183][  0]LogUObjectArray: 2 objects are not in the root set, but can never be destroyed because they are in the DisregardForGC set.
+[2019.03.19-22.39.36:183][  0]LogUObjectAllocator: 5225232 out of 0 bytes used by permanent object pool.
+[2019.03.19-22.39.36:183][  0]LogUObjectArray: CloseDisregardForGC: 34988/34988 objects in disregard for GC pool
+[2019.03.19-22.39.36:260][  0]LogEngine: Initializing Engine...
+[2019.03.19-22.39.36:342][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.03.19-22.39.36:342][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.03.19-22.39.36:342][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.03.19-22.39.36:342][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.03.19-22.39.36:410][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.03.19-22.39.36:582][  0]LogInit: XAudio2 using 'Acer XB241H (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.03.19-22.39.36:594][  0]LogInit: FAudioDevice initialized.
+[2019.03.19-22.39.36:605][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.03.19-22.39.36:605][  0]LogInit: Texture streaming: Enabled
+[2019.03.19-22.39.36:611][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.19-22.39.36:611][  0]LogInit: Display: Game Engine Initialized.
+[2019.03.19-22.39.36:611][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2019.03.19-22.39.36:611][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.03.19-22.39.36:611][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.03.19-22.39.36:611][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.03.19-22.39.36:611][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.03.19-22.39.36:618][  0]LogInit: Display: Starting Game.
+[2019.03.19-22.39.36:618][  0]LogNet: Browse: /Game/VirtualRealityBP/Maps/MotionControllerMap?Name=Player
+[2019.03.19-22.39.36:619][  0]LogLoad: LoadMap: /Game/VirtualRealityBP/Maps/MotionControllerMap?Name=Player
+[2019.03.19-22.39.36:845][  0]LogModelComponent: Model /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.ModelComponent_70 has elements that reference missing vertices. MaxVertex=223, NumVertices=0
+[2019.03.19-22.39.36:845][  0]LogModelComponent: Model /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.ModelComponent_70 has elements that reference missing vertices. MaxVertex=817, NumVertices=0
+[2019.03.19-22.39.36:845][  0]LogModelComponent: Model /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.ModelComponent_70 has elements that reference missing vertices. MaxVertex=817, NumVertices=0
+[2019.03.19-22.39.36:845][  0]LogModelComponent: Model /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.ModelComponent_70 has elements that reference missing vertices. MaxVertex=817, NumVertices=0
+[2019.03.19-22.39.36:845][  0]LogModelComponent: Model /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.ModelComponent_70 has elements that reference missing vertices. MaxVertex=817, NumVertices=0
+[2019.03.19-22.39.36:845][  0]LogModelComponent: Model /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.ModelComponent_70 has elements that reference missing vertices. MaxVertex=817, NumVertices=0
+[2019.03.19-22.39.36:845][  0]LogModelComponent: Model /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.ModelComponent_70 has elements that reference missing vertices. MaxVertex=863, NumVertices=0
+[2019.03.19-22.39.36:845][  0]LogModelComponent: Model /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.ModelComponent_70 has elements that reference missing vertices. MaxVertex=863, NumVertices=0
+[2019.03.19-22.39.36:845][  0]LogModelComponent: Model /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.ModelComponent_70 has elements that reference missing vertices. MaxVertex=863, NumVertices=0
+[2019.03.19-22.39.36:845][  0]LogModelComponent: Model /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.ModelComponent_70 has elements that reference missing vertices. MaxVertex=863, NumVertices=0
+[2019.03.19-22.39.36:845][  0]LogModelComponent: Model /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.ModelComponent_70 has elements that reference missing vertices. MaxVertex=863, NumVertices=0
+[2019.03.19-22.39.36:845][  0]LogModelComponent: Model /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.ModelComponent_70 has elements that reference missing vertices. MaxVertex=863, NumVertices=0
+[2019.03.19-22.39.36:845][  0]LogModelComponent: Model /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.ModelComponent_70 has elements that reference missing vertices. MaxVertex=863, NumVertices=0
+[2019.03.19-22.39.36:845][  0]LogModelComponent: Model /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.ModelComponent_70 has elements that reference missing vertices. MaxVertex=863, NumVertices=0
+[2019.03.19-22.39.36:845][  0]LogModelComponent: Model /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.ModelComponent_70 has elements that reference missing vertices. MaxVertex=863, NumVertices=0
+[2019.03.19-22.39.36:845][  0]LogModelComponent: Model /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.ModelComponent_70 has elements that reference missing vertices. MaxVertex=863, NumVertices=0
+[2019.03.19-22.39.36:845][  0]LogModelComponent: Model /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.ModelComponent_70 has elements that reference missing vertices. MaxVertex=863, NumVertices=0
+[2019.03.19-22.39.36:845][  0]LogModelComponent: Model /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.ModelComponent_70 has elements that reference missing vertices. MaxVertex=863, NumVertices=0
+[2019.03.19-22.39.36:845][  0]LogModelComponent: Model /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.ModelComponent_70 has elements that reference missing vertices. MaxVertex=863, NumVertices=0
+[2019.03.19-22.39.36:845][  0]LogModelComponent: Model /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.ModelComponent_70 has elements that reference missing vertices. MaxVertex=863, NumVertices=0
+[2019.03.19-22.39.36:845][  0]LogModelComponent: Model /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.ModelComponent_70 has elements that reference missing vertices. MaxVertex=863, NumVertices=0
+[2019.03.19-22.39.36:845][  0]LogModelComponent: Model /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.ModelComponent_70 has elements that reference missing vertices. MaxVertex=863, NumVertices=0
+[2019.03.19-22.39.36:845][  0]LogModelComponent: Model /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.ModelComponent_70 has elements that reference missing vertices. MaxVertex=863, NumVertices=0
+[2019.03.19-22.39.36:845][  0]LogModelComponent: Model /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.ModelComponent_70 has elements that reference missing vertices. MaxVertex=863, NumVertices=0
+[2019.03.19-22.39.36:845][  0]LogModelComponent: Model /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.ModelComponent_70 has elements that reference missing vertices. MaxVertex=863, NumVertices=0
+[2019.03.19-22.39.36:845][  0]LogModelComponent: Model /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.ModelComponent_70 has elements that reference missing vertices. MaxVertex=863, NumVertices=0
+[2019.03.19-22.39.36:845][  0]LogModelComponent: Model /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.ModelComponent_70 has elements that reference missing vertices. MaxVertex=863, NumVertices=0
+[2019.03.19-22.39.36:845][  0]LogModelComponent: Model /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.ModelComponent_70 has elements that reference missing vertices. MaxVertex=863, NumVertices=0
+[2019.03.19-22.39.36:845][  0]LogModelComponent: Model /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.ModelComponent_70 has elements that reference missing vertices. MaxVertex=863, NumVertices=0
+[2019.03.19-22.39.36:845][  0]LogModelComponent: Model /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.ModelComponent_70 has elements that reference missing vertices. MaxVertex=863, NumVertices=0
+[2019.03.19-22.39.36:845][  0]LogModelComponent: Model /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.ModelComponent_70 has elements that reference missing vertices. MaxVertex=863, NumVertices=0
+[2019.03.19-22.39.36:845][  0]LogModelComponent: Model /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.ModelComponent_70 has elements that reference missing vertices. MaxVertex=863, NumVertices=0
+[2019.03.19-22.39.36:845][  0]LogModelComponent: Model /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.ModelComponent_70 has elements that reference missing vertices. MaxVertex=863, NumVertices=0
+[2019.03.19-22.39.36:845][  0]LogModelComponent: Model /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.ModelComponent_70 has elements that reference missing vertices. MaxVertex=863, NumVertices=0
+[2019.03.19-22.39.36:845][  0]LogModelComponent: Model /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.ModelComponent_70 has elements that reference missing vertices. MaxVertex=863, NumVertices=0
+[2019.03.19-22.39.36:845][  0]LogModelComponent: Model /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.ModelComponent_70 has elements that reference missing vertices. MaxVertex=863, NumVertices=0
+[2019.03.19-22.39.36:845][  0]LogModelComponent: Model /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.ModelComponent_70 has elements that reference missing vertices. MaxVertex=863, NumVertices=0
+[2019.03.19-22.39.36:845][  0]LogModelComponent: Model /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.ModelComponent_70 has elements that reference missing vertices. MaxVertex=863, NumVertices=0
+[2019.03.19-22.39.36:845][  0]LogModelComponent: Model /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.ModelComponent_70 has elements that reference missing vertices. MaxVertex=863, NumVertices=0
+[2019.03.19-22.39.36:845][  0]LogModelComponent: Model /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.ModelComponent_70 has elements that reference missing vertices. MaxVertex=863, NumVertices=0
+[2019.03.19-22.39.36:845][  0]LogModelComponent: Model /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.ModelComponent_70 has elements that reference missing vertices. MaxVertex=863, NumVertices=0
+[2019.03.19-22.39.36:845][  0]LogModelComponent: Model /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.ModelComponent_70 has elements that reference missing vertices. MaxVertex=863, NumVertices=0
+[2019.03.19-22.39.36:845][  0]LogModelComponent: Model /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.ModelComponent_70 has elements that reference missing vertices. MaxVertex=863, NumVertices=0
+[2019.03.19-22.39.36:845][  0]LogModelComponent: Model /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.ModelComponent_70 has elements that reference missing vertices. MaxVertex=863, NumVertices=0
+[2019.03.19-22.39.36:845][  0]LogModelComponent: Model /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.ModelComponent_70 has elements that reference missing vertices. MaxVertex=863, NumVertices=0
+[2019.03.19-22.39.36:845][  0]LogModelComponent: Model /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.ModelComponent_70 has elements that reference missing vertices. MaxVertex=156, NumVertices=0
+[2019.03.19-22.39.36:845][  0]LogModelComponent: Model /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.ModelComponent_70 has elements that reference missing vertices. MaxVertex=161, NumVertices=0
+[2019.03.19-22.39.36:845][  0]LogModelComponent: Model /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.ModelComponent_70 has elements that reference missing vertices. MaxVertex=172, NumVertices=0
+[2019.03.19-22.39.36:845][  0]LogModelComponent: Model /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.ModelComponent_70 has elements that reference missing vertices. MaxVertex=176, NumVertices=0
+[2019.03.19-22.39.36:845][  0]LogModelComponent: Model /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.ModelComponent_70 has elements that reference missing vertices. MaxVertex=176, NumVertices=0
+[2019.03.19-22.39.36:845][  0]LogModelComponent: Model /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.ModelComponent_70 has elements that reference missing vertices. MaxVertex=748, NumVertices=0
+[2019.03.19-22.39.36:845][  0]LogModelComponent: Model /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.ModelComponent_70 has elements that reference missing vertices. MaxVertex=753, NumVertices=0
+[2019.03.19-22.39.36:845][  0]LogModelComponent: Model /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.ModelComponent_70 has elements that reference missing vertices. MaxVertex=764, NumVertices=0
+[2019.03.19-22.39.36:845][  0]LogModelComponent: Model /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.ModelComponent_70 has elements that reference missing vertices. MaxVertex=768, NumVertices=0
+[2019.03.19-22.39.36:845][  0]LogModelComponent: Model /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.ModelComponent_70 has elements that reference missing vertices. MaxVertex=768, NumVertices=0
+[2019.03.19-22.39.36:845][  0]LogModelComponent: Model /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.ModelComponent_70 has elements that reference missing vertices. MaxVertex=768, NumVertices=0
+[2019.03.19-22.39.36:845][  0]LogModelComponent: Model /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.ModelComponent_70 has elements that reference missing vertices. MaxVertex=768, NumVertices=0
+[2019.03.19-22.39.36:845][  0]LogModelComponent: Model /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.ModelComponent_70 has elements that reference missing vertices. MaxVertex=784, NumVertices=0
+[2019.03.19-22.39.36:845][  0]LogModelComponent: Model /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.ModelComponent_70 has elements that reference missing vertices. MaxVertex=808, NumVertices=0
+[2019.03.19-22.39.36:845][  0]LogModelComponent: Model /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.ModelComponent_70 has elements that reference missing vertices. MaxVertex=465, NumVertices=0
+[2019.03.19-22.39.36:845][  0]LogModelComponent: Model /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.ModelComponent_70 has elements that reference missing vertices. MaxVertex=474, NumVertices=0
+[2019.03.19-22.39.36:845][  0]LogModelComponent: Model /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.ModelComponent_70 has elements that reference missing vertices. MaxVertex=483, NumVertices=0
+[2019.03.19-22.39.36:845][  0]LogModelComponent: Model /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.ModelComponent_70 has elements that reference missing vertices. MaxVertex=687, NumVertices=0
+[2019.03.19-22.39.36:845][  0]LogModelComponent: Model /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.ModelComponent_70 has elements that reference missing vertices. MaxVertex=687, NumVertices=0
+[2019.03.19-22.39.36:846][  0]LogModelComponent: Model /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.ModelComponent_70 has elements that reference missing vertices. MaxVertex=687, NumVertices=0
+[2019.03.19-22.39.36:846][  0]LogModelComponent: Model /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.ModelComponent_70 has elements that reference missing vertices. MaxVertex=687, NumVertices=0
+[2019.03.19-22.39.36:846][  0]LogModelComponent: Model /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.ModelComponent_70 has elements that reference missing vertices. MaxVertex=661, NumVertices=0
+[2019.03.19-22.39.36:846][  0]LogModelComponent: Model /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.ModelComponent_71 has elements that reference missing vertices. MaxVertex=108, NumVertices=0
+[2019.03.19-22.39.36:846][  0]LogModelComponent: Model /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.ModelComponent_71 has elements that reference missing vertices. MaxVertex=19, NumVertices=0
+[2019.03.19-22.39.36:846][  0]LogModelComponent: Model /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.ModelComponent_71 has elements that reference missing vertices. MaxVertex=23, NumVertices=0
+[2019.03.19-22.39.36:846][  0]LogModelComponent: Model /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.ModelComponent_71 has elements that reference missing vertices. MaxVertex=136, NumVertices=0
+[2019.03.19-22.39.36:846][  0]LogModelComponent: Model /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.ModelComponent_71 has elements that reference missing vertices. MaxVertex=140, NumVertices=0
+[2019.03.19-22.39.36:846][  0]LogModelComponent: Model /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.ModelComponent_71 has elements that reference missing vertices. MaxVertex=144, NumVertices=0
+[2019.03.19-22.39.36:846][  0]LogModelComponent: Model /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.ModelComponent_71 has elements that reference missing vertices. MaxVertex=509, NumVertices=0
+[2019.03.19-22.39.36:846][  0]LogModelComponent: Model /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.ModelComponent_71 has elements that reference missing vertices. MaxVertex=545, NumVertices=0
+[2019.03.19-22.39.36:846][  0]LogModelComponent: Model /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.ModelComponent_71 has elements that reference missing vertices. MaxVertex=563, NumVertices=0
+[2019.03.19-22.39.36:846][  0]LogModelComponent: Model /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.ModelComponent_71 has elements that reference missing vertices. MaxVertex=567, NumVertices=0
+[2019.03.19-22.39.36:846][  0]LogModelComponent: Model /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.ModelComponent_71 has elements that reference missing vertices. MaxVertex=571, NumVertices=0
+[2019.03.19-22.39.36:846][  0]LogModelComponent: Model /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.ModelComponent_71 has elements that reference missing vertices. MaxVertex=575, NumVertices=0
+[2019.03.19-22.39.36:846][  0]LogModelComponent: Model /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.ModelComponent_71 has elements that reference missing vertices. MaxVertex=579, NumVertices=0
+[2019.03.19-22.39.36:846][  0]LogModelComponent: Model /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.ModelComponent_71 has elements that reference missing vertices. MaxVertex=583, NumVertices=0
+[2019.03.19-22.39.36:846][  0]LogModelComponent: Model /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.ModelComponent_71 has elements that reference missing vertices. MaxVertex=148, NumVertices=0
+[2019.03.19-22.39.36:846][  0]LogModelComponent: Model /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.ModelComponent_71 has elements that reference missing vertices. MaxVertex=128, NumVertices=0
+[2019.03.19-22.39.36:846][  0]LogModelComponent: Model /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.ModelComponent_71 has elements that reference missing vertices. MaxVertex=497, NumVertices=0
+[2019.03.19-22.39.36:846][  0]LogModelComponent: Model /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.ModelComponent_71 has elements that reference missing vertices. MaxVertex=497, NumVertices=0
+[2019.03.19-22.39.36:846][  0]LogModelComponent: Model /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.ModelComponent_71 has elements that reference missing vertices. MaxVertex=497, NumVertices=0
+[2019.03.19-22.39.36:846][  0]LogModelComponent: Model /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.ModelComponent_72 has elements that reference missing vertices. MaxVertex=28, NumVertices=0
+[2019.03.19-22.39.36:846][  0]LogModelComponent: Model /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.ModelComponent_72 has elements that reference missing vertices. MaxVertex=54, NumVertices=0
+[2019.03.19-22.39.36:846][  0]LogModelComponent: Model /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.ModelComponent_72 has elements that reference missing vertices. MaxVertex=60, NumVertices=0
+[2019.03.19-22.39.36:846][  0]LogModelComponent: Model /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.ModelComponent_72 has elements that reference missing vertices. MaxVertex=285, NumVertices=0
+[2019.03.19-22.39.36:846][  0]LogModelComponent: Model /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.ModelComponent_72 has elements that reference missing vertices. MaxVertex=404, NumVertices=0
+[2019.03.19-22.39.36:846][  0]LogModelComponent: Model /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.ModelComponent_72 has elements that reference missing vertices. MaxVertex=413, NumVertices=0
+[2019.03.19-22.39.36:846][  0]LogModelComponent: Model /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.ModelComponent_72 has elements that reference missing vertices. MaxVertex=413, NumVertices=0
+[2019.03.19-22.39.36:846][  0]LogModelComponent: Model /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.ModelComponent_72 has elements that reference missing vertices. MaxVertex=413, NumVertices=0
+[2019.03.19-22.39.36:846][  0]LogModelComponent: Model /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.ModelComponent_72 has elements that reference missing vertices. MaxVertex=413, NumVertices=0
+[2019.03.19-22.39.36:846][  0]LogModelComponent: Model /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.ModelComponent_72 has elements that reference missing vertices. MaxVertex=413, NumVertices=0
+[2019.03.19-22.39.36:846][  0]LogModelComponent: Model /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.ModelComponent_72 has elements that reference missing vertices. MaxVertex=365, NumVertices=0
+[2019.03.19-22.39.36:846][  0]LogModelComponent: Model /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.ModelComponent_72 has elements that reference missing vertices. MaxVertex=425, NumVertices=0
+[2019.03.19-22.39.36:846][  0]LogModelComponent: Model /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.ModelComponent_72 has elements that reference missing vertices. MaxVertex=435, NumVertices=0
+[2019.03.19-22.39.36:846][  0]LogModelComponent: Model /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.ModelComponent_72 has elements that reference missing vertices. MaxVertex=439, NumVertices=0
+[2019.03.19-22.39.36:846][  0]LogModelComponent: Model /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.ModelComponent_73 has elements that reference missing vertices. MaxVertex=36, NumVertices=0
+[2019.03.19-22.39.36:846][  0]LogModelComponent: Model /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.ModelComponent_73 has elements that reference missing vertices. MaxVertex=408, NumVertices=0
+[2019.03.19-22.39.36:846][  0]LogModelComponent: Model /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.ModelComponent_73 has elements that reference missing vertices. MaxVertex=408, NumVertices=0
+[2019.03.19-22.39.36:846][  0]LogModelComponent: Model /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.ModelComponent_73 has elements that reference missing vertices. MaxVertex=430, NumVertices=0
+[2019.03.19-22.39.36:846][  0]LogModelComponent: Model /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.ModelComponent_73 has elements that reference missing vertices. MaxVertex=50, NumVertices=0
+[2019.03.19-22.39.36:846][  0]LogModelComponent: Model /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.ModelComponent_74 has elements that reference missing vertices. MaxVertex=46, NumVertices=0
+[2019.03.19-22.39.36:846][  0]LogModelComponent: Model /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.ModelComponent_74 has elements that reference missing vertices. MaxVertex=46, NumVertices=0
+[2019.03.19-22.39.36:846][  0]LogModelComponent: Model /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.ModelComponent_74 has elements that reference missing vertices. MaxVertex=81, NumVertices=0
+[2019.03.19-22.39.36:846][  0]LogModelComponent: Model /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.ModelComponent_74 has elements that reference missing vertices. MaxVertex=417, NumVertices=0
+[2019.03.19-22.39.36:846][  0]LogModelComponent: Model /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.ModelComponent_74 has elements that reference missing vertices. MaxVertex=417, NumVertices=0
+[2019.03.19-22.39.36:846][  0]LogModelComponent: Model /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.ModelComponent_74 has elements that reference missing vertices. MaxVertex=417, NumVertices=0
+[2019.03.19-22.39.36:846][  0]LogModelComponent: Model /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.ModelComponent_74 has elements that reference missing vertices. MaxVertex=417, NumVertices=0
+[2019.03.19-22.39.36:846][  0]LogModelComponent: Model /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.ModelComponent_74 has elements that reference missing vertices. MaxVertex=417, NumVertices=0
+[2019.03.19-22.39.36:846][  0]LogModelComponent: Model /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.ModelComponent_74 has elements that reference missing vertices. MaxVertex=421, NumVertices=0
+[2019.03.19-22.39.36:846][  0]LogModelComponent: Model /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.ModelComponent_74 has elements that reference missing vertices. MaxVertex=421, NumVertices=0
+[2019.03.19-22.39.36:846][  0]LogModelComponent: Model /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.ModelComponent_74 has elements that reference missing vertices. MaxVertex=421, NumVertices=0
+[2019.03.19-22.39.36:846][  0]LogModelComponent: Model /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.ModelComponent_74 has elements that reference missing vertices. MaxVertex=383, NumVertices=0
+[2019.03.19-22.39.36:846][  0]LogModelComponent: Model /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.ModelComponent_74 has elements that reference missing vertices. MaxVertex=400, NumVertices=0
+[2019.03.19-22.39.36:846][  0]LogModelComponent: Model /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.ModelComponent_74 has elements that reference missing vertices. MaxVertex=400, NumVertices=0
+[2019.03.19-22.39.36:846][  0]LogModelComponent: Model /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.ModelComponent_75 has elements that reference missing vertices. MaxVertex=70, NumVertices=0
+[2019.03.19-22.39.36:846][  0]LogModelComponent: Model /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.ModelComponent_75 has elements that reference missing vertices. MaxVertex=74, NumVertices=0
+[2019.03.19-22.39.36:846][  0]LogModelComponent: Model /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.ModelComponent_75 has elements that reference missing vertices. MaxVertex=74, NumVertices=0
+[2019.03.19-22.39.36:846][  0]LogModelComponent: Model /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.ModelComponent_75 has elements that reference missing vertices. MaxVertex=739, NumVertices=0
+[2019.03.19-22.39.36:846][  0]LogModelComponent: Model /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.ModelComponent_75 has elements that reference missing vertices. MaxVertex=739, NumVertices=0
+[2019.03.19-22.39.36:846][  0]LogModelComponent: Model /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.ModelComponent_75 has elements that reference missing vertices. MaxVertex=739, NumVertices=0
+[2019.03.19-22.39.36:846][  0]LogModelComponent: Model /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.ModelComponent_75 has elements that reference missing vertices. MaxVertex=739, NumVertices=0
+[2019.03.19-22.39.36:846][  0]LogModelComponent: Model /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.ModelComponent_75 has elements that reference missing vertices. MaxVertex=739, NumVertices=0
+[2019.03.19-22.39.36:846][  0]LogModelComponent: Model /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.ModelComponent_75 has elements that reference missing vertices. MaxVertex=739, NumVertices=0
+[2019.03.19-22.39.36:846][  0]LogModelComponent: Model /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.ModelComponent_75 has elements that reference missing vertices. MaxVertex=739, NumVertices=0
+[2019.03.19-22.39.36:846][  0]LogModelComponent: Model /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.ModelComponent_75 has elements that reference missing vertices. MaxVertex=739, NumVertices=0
+[2019.03.19-22.39.36:846][  0]LogModelComponent: Model /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.ModelComponent_75 has elements that reference missing vertices. MaxVertex=739, NumVertices=0
+[2019.03.19-22.39.36:846][  0]LogModelComponent: Model /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.ModelComponent_75 has elements that reference missing vertices. MaxVertex=739, NumVertices=0
+[2019.03.19-22.39.36:846][  0]LogModelComponent: Model /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.ModelComponent_75 has elements that reference missing vertices. MaxVertex=739, NumVertices=0
+[2019.03.19-22.39.36:846][  0]LogModelComponent: Model /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.ModelComponent_75 has elements that reference missing vertices. MaxVertex=739, NumVertices=0
+[2019.03.19-22.39.36:846][  0]LogModelComponent: Model /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.ModelComponent_75 has elements that reference missing vertices. MaxVertex=739, NumVertices=0
+[2019.03.19-22.39.36:846][  0]LogModelComponent: Model /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.ModelComponent_75 has elements that reference missing vertices. MaxVertex=859, NumVertices=0
+[2019.03.19-22.39.36:846][  0]LogModelComponent: Model /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.ModelComponent_75 has elements that reference missing vertices. MaxVertex=859, NumVertices=0
+[2019.03.19-22.39.36:846][  0]LogModelComponent: Model /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.ModelComponent_75 has elements that reference missing vertices. MaxVertex=867, NumVertices=0
+[2019.03.19-22.39.36:846][  0]LogModelComponent: Model /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.ModelComponent_75 has elements that reference missing vertices. MaxVertex=867, NumVertices=0
+[2019.03.19-22.39.36:846][  0]LogModelComponent: Model /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.ModelComponent_75 has elements that reference missing vertices. MaxVertex=867, NumVertices=0
+[2019.03.19-22.39.36:846][  0]LogModelComponent: Model /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.ModelComponent_75 has elements that reference missing vertices. MaxVertex=867, NumVertices=0
+[2019.03.19-22.39.36:846][  0]LogModelComponent: Model /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.ModelComponent_75 has elements that reference missing vertices. MaxVertex=871, NumVertices=0
+[2019.03.19-22.39.36:846][  0]LogModelComponent: Model /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.ModelComponent_75 has elements that reference missing vertices. MaxVertex=875, NumVertices=0
+[2019.03.19-22.39.36:846][  0]LogModelComponent: Model /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.ModelComponent_75 has elements that reference missing vertices. MaxVertex=875, NumVertices=0
+[2019.03.19-22.39.36:846][  0]LogModelComponent: Model /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.ModelComponent_75 has elements that reference missing vertices. MaxVertex=875, NumVertices=0
+[2019.03.19-22.39.36:846][  0]LogModelComponent: Model /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.ModelComponent_75 has elements that reference missing vertices. MaxVertex=327, NumVertices=0
+[2019.03.19-22.39.36:846][  0]LogModelComponent: Model /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.ModelComponent_75 has elements that reference missing vertices. MaxVertex=827, NumVertices=0
+[2019.03.19-22.39.36:846][  0]LogModelComponent: Model /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.ModelComponent_75 has elements that reference missing vertices. MaxVertex=883, NumVertices=0
+[2019.03.19-22.39.36:847][  0]LogModelComponent: Model /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.ModelComponent_75 has elements that reference missing vertices. MaxVertex=883, NumVertices=0
+[2019.03.19-22.39.36:847][  0]LogModelComponent: Model /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.ModelComponent_75 has elements that reference missing vertices. MaxVertex=883, NumVertices=0
+[2019.03.19-22.39.36:847][  0]LogModelComponent: Model /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.ModelComponent_75 has elements that reference missing vertices. MaxVertex=883, NumVertices=0
+[2019.03.19-22.39.36:847][  0]LogModelComponent: Model /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.ModelComponent_75 has elements that reference missing vertices. MaxVertex=883, NumVertices=0
+[2019.03.19-22.39.36:847][  0]LogModelComponent: Model /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.ModelComponent_75 has elements that reference missing vertices. MaxVertex=883, NumVertices=0
+[2019.03.19-22.39.36:847][  0]LogModelComponent: Model /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.ModelComponent_75 has elements that reference missing vertices. MaxVertex=883, NumVertices=0
+[2019.03.19-22.39.36:847][  0]LogModelComponent: Model /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.ModelComponent_75 has elements that reference missing vertices. MaxVertex=273, NumVertices=0
+[2019.03.19-22.39.36:847][  0]LogModelComponent: Model /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.ModelComponent_75 has elements that reference missing vertices. MaxVertex=315, NumVertices=0
+[2019.03.19-22.39.36:847][  0]LogModelComponent: Model /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.ModelComponent_75 has elements that reference missing vertices. MaxVertex=315, NumVertices=0
+[2019.03.19-22.39.36:847][  0]LogModelComponent: Model /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.ModelComponent_75 has elements that reference missing vertices. MaxVertex=849, NumVertices=0
+[2019.03.19-22.39.36:847][  0]LogModelComponent: Model /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.ModelComponent_75 has elements that reference missing vertices. MaxVertex=678, NumVertices=0
+[2019.03.19-22.39.36:847][  0]LogModelComponent: Model /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.ModelComponent_75 has elements that reference missing vertices. MaxVertex=678, NumVertices=0
+[2019.03.19-22.39.36:847][  0]LogModelComponent: Model /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.ModelComponent_76 has elements that reference missing vertices. MaxVertex=91, NumVertices=0
+[2019.03.19-22.39.36:847][  0]LogModelComponent: Model /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.ModelComponent_76 has elements that reference missing vertices. MaxVertex=95, NumVertices=0
+[2019.03.19-22.39.36:847][  0]LogModelComponent: Model /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.ModelComponent_76 has elements that reference missing vertices. MaxVertex=95, NumVertices=0
+[2019.03.19-22.39.36:847][  0]LogModelComponent: Model /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.ModelComponent_76 has elements that reference missing vertices. MaxVertex=559, NumVertices=0
+[2019.03.19-22.39.36:847][  0]LogModelComponent: Model /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.ModelComponent_76 has elements that reference missing vertices. MaxVertex=609, NumVertices=0
+[2019.03.19-22.39.36:847][  0]LogModelComponent: Model /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.ModelComponent_76 has elements that reference missing vertices. MaxVertex=609, NumVertices=0
+[2019.03.19-22.39.36:847][  0]LogModelComponent: Model /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.ModelComponent_76 has elements that reference missing vertices. MaxVertex=609, NumVertices=0
+[2019.03.19-22.39.36:847][  0]LogModelComponent: Model /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.ModelComponent_76 has elements that reference missing vertices. MaxVertex=625, NumVertices=0
+[2019.03.19-22.39.36:847][  0]LogModelComponent: Model /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.ModelComponent_76 has elements that reference missing vertices. MaxVertex=625, NumVertices=0
+[2019.03.19-22.39.36:847][  0]LogModelComponent: Model /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.ModelComponent_76 has elements that reference missing vertices. MaxVertex=625, NumVertices=0
+[2019.03.19-22.39.36:847][  0]LogModelComponent: Model /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.ModelComponent_76 has elements that reference missing vertices. MaxVertex=625, NumVertices=0
+[2019.03.19-22.39.36:847][  0]LogModelComponent: Model /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.ModelComponent_76 has elements that reference missing vertices. MaxVertex=625, NumVertices=0
+[2019.03.19-22.39.36:847][  0]LogModelComponent: Model /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.ModelComponent_76 has elements that reference missing vertices. MaxVertex=625, NumVertices=0
+[2019.03.19-22.39.36:847][  0]LogModelComponent: Model /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.ModelComponent_76 has elements that reference missing vertices. MaxVertex=625, NumVertices=0
+[2019.03.19-22.39.36:847][  0]LogModelComponent: Model /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.ModelComponent_76 has elements that reference missing vertices. MaxVertex=625, NumVertices=0
+[2019.03.19-22.39.36:847][  0]LogModelComponent: Model /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.ModelComponent_76 has elements that reference missing vertices. MaxVertex=248, NumVertices=0
+[2019.03.19-22.39.36:847][  0]LogModelComponent: Model /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.ModelComponent_76 has elements that reference missing vertices. MaxVertex=248, NumVertices=0
+[2019.03.19-22.39.36:847][  0]LogModelComponent: Model /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.ModelComponent_76 has elements that reference missing vertices. MaxVertex=644, NumVertices=0
+[2019.03.19-22.39.36:847][  0]LogModelComponent: Model /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.ModelComponent_76 has elements that reference missing vertices. MaxVertex=644, NumVertices=0
+[2019.03.19-22.39.36:847][  0]LogModelComponent: Model /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.ModelComponent_76 has elements that reference missing vertices. MaxVertex=227, NumVertices=0
+[2019.03.19-22.39.36:847][  0]LogModelComponent: Model /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.ModelComponent_76 has elements that reference missing vertices. MaxVertex=447, NumVertices=0
+[2019.03.19-22.39.36:847][  0]LogModelComponent: Model /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.ModelComponent_76 has elements that reference missing vertices. MaxVertex=452, NumVertices=0
+[2019.03.19-22.39.36:847][  0]LogModelComponent: Model /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.ModelComponent_76 has elements that reference missing vertices. MaxVertex=456, NumVertices=0
+[2019.03.19-22.39.36:847][  0]LogModelComponent: Model /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.ModelComponent_77 has elements that reference missing vertices. MaxVertex=357, NumVertices=0
+[2019.03.19-22.39.36:847][  0]LogModelComponent: Model /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.ModelComponent_78 has elements that reference missing vertices. MaxVertex=373, NumVertices=0
+[2019.03.19-22.39.36:847][  0]LogModelComponent: Model /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.ModelComponent_79 has elements that reference missing vertices. MaxVertex=651, NumVertices=0
+[2019.03.19-22.39.36:847][  0]LogModelComponent: Model /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.ModelComponent_79 has elements that reference missing vertices. MaxVertex=651, NumVertices=0
+[2019.03.19-22.39.36:847][  0]LogModelComponent: Model /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.ModelComponent_79 has elements that reference missing vertices. MaxVertex=601, NumVertices=0
+[2019.03.19-22.39.36:847][  0]LogModelComponent: Model /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.ModelComponent_79 has elements that reference missing vertices. MaxVertex=613, NumVertices=0
+[2019.03.19-22.39.36:847][  0]LogModelComponent: Model /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.ModelComponent_79 has elements that reference missing vertices. MaxVertex=613, NumVertices=0
+[2019.03.19-22.39.36:847][  0]LogModelComponent: Model /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.ModelComponent_79 has elements that reference missing vertices. MaxVertex=629, NumVertices=0
+[2019.03.19-22.39.36:847][  0]LogModelComponent: Model /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.ModelComponent_79 has elements that reference missing vertices. MaxVertex=488, NumVertices=0
+[2019.03.19-22.39.36:847][  0]LogModelComponent: Model /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.ModelComponent_79 has elements that reference missing vertices. MaxVertex=505, NumVertices=0
+[2019.03.19-22.39.36:853][  0]LogAIModule: Creating AISystem for world MotionControllerMap
+[2019.03.19-22.39.36:853][  0]LogUObjectGlobals: Warning: Failed to find object 'Class None.'
+[2019.03.19-22.39.36:853][  0]LogLoad: Game class is 'GameModeBase'
+[2019.03.19-22.39.36:866][  0]LogWorld: Bringing World /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap up for play (max tick rate 0) at 2019.03.19-18.39.36
+[2019.03.19-22.39.36:868][  0]LogWorld: Bringing up level for play took: 0.013267
+[2019.03.19-22.39.36:869][  0]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.03.19-22.39.36:872][  0]LogBlueprintUserMessages: [VRPawn_507] Headset: WindowsMixedRealityHMD
+[2019.03.19-22.39.36:872][  0]LogBlueprintUserMessages: [VRPawn_507] MotionControllerPawn: Enabling Windows Mixed Reality
+[2019.03.19-22.39.36:876][  0]LogLoad: Took 0.256815 seconds to LoadMap(/Game/VirtualRealityBP/Maps/MotionControllerMap)
+[2019.03.19-22.39.36:901][  0]LogSlate: Took 0.000164 seconds to synchronously load lazily loaded font '../../../Engine/Content/EngineFonts/Faces/RobotoRegular.ufont' (155K)
+[2019.03.19-22.39.36:905][  0]LogRenderer: Reallocating scene render targets to support 1920x1080 Format 26 NumSamples 1 (Frame:1).
+[2019.03.19-22.39.36:905][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.03.19-22.39.36:907][  0]LogLoad: (Engine Initialization) Total time: 2.55 seconds
+[2019.03.19-22.39.36:965][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.03.19-22.39.37:026][  0]LogSlate: Slate font cache was flushed
+[2019.03.19-22.39.37:051][  1]LogRenderer: Reallocating scene render targets to support 3516x1760 Format 26 NumSamples 1 (Frame:3).
+[2019.03.19-22.39.37:051][  1]LogSlate: Took 0.000096 seconds to synchronously load lazily loaded font '../../../Engine/Content/EngineFonts/Faces/RobotoRegular.ufont' (155K)
+[2019.03.19-22.39.37:104][  3]LogRenderer: Reallocating scene render targets to support 3520x1760 Format 26 NumSamples 1 (Frame:4).
+[2019.03.19-22.39.37:125][  3]LogProfilingDebugging: Allocated a 1024 x 1024 texture for HMD canvas layer
+[2019.03.19-22.39.37:965][ 75]LogBlueprintUserMessages: [BP_SkeeballAlley] 1
+[2019.03.19-22.39.38:965][165]LogBlueprintUserMessages: [BP_SkeeballAlley] 2
+[2019.03.19-22.39.39:965][253]LogBlueprintUserMessages: [BP_SkeeballAlley] 3
+[2019.03.19-22.39.40:976][343]LogBlueprintUserMessages: [BP_SkeeballAlley] 3
+[2019.03.19-22.39.41:976][433]LogBlueprintUserMessages: [BP_SkeeballAlley] 3
+[2019.03.19-22.39.42:988][523]LogBlueprintUserMessages: [BP_SkeeballAlley] 3
+[2019.03.19-22.39.43:998][614]LogBlueprintUserMessages: [BP_SkeeballAlley] 3
+[2019.03.19-22.39.44:999][703]LogBlueprintUserMessages: [BP_SkeeballAlley] 3
+[2019.03.19-22.39.46:009][794]LogBlueprintUserMessages: [BP_SkeeballAlley] 3
+[2019.03.19-22.39.47:009][884]LogBlueprintUserMessages: [BP_SkeeballAlley] 3
+[2019.03.19-22.39.48:009][974]LogBlueprintUserMessages: [BP_SkeeballAlley] 3
+[2019.03.19-22.39.49:010][ 64]LogBlueprintUserMessages: [BP_SkeeballAlley] 3
+[2019.03.19-22.39.50:010][154]LogBlueprintUserMessages: [BP_SkeeballAlley] 3
+[2019.03.19-22.39.51:010][244]LogBlueprintUserMessages: [BP_SkeeballAlley] 3
+[2019.03.19-22.39.52:010][334]LogBlueprintUserMessages: [BP_SkeeballAlley] 3
+[2019.03.19-22.39.53:010][420]LogBlueprintUserMessages: [BP_SkeeballAlley] 3
+[2019.03.19-22.39.54:021][509]LogBlueprintUserMessages: [BP_SkeeballAlley] 3
+[2019.03.19-22.39.55:021][599]LogBlueprintUserMessages: [BP_SkeeballAlley] 3
+[2019.03.19-22.39.56:022][689]LogBlueprintUserMessages: [BP_SkeeballAlley] 3
+[2019.03.19-22.39.57:032][780]LogBlueprintUserMessages: [BP_SkeeballAlley] 3
+[2019.03.19-22.39.58:033][870]LogBlueprintUserMessages: [BP_SkeeballAlley] 3
+[2019.03.19-22.39.59:032][960]LogBlueprintUserMessages: [BP_SkeeballAlley] 3
+[2019.03.19-22.40.00:033][ 50]LogBlueprintUserMessages: [BP_SkeeballAlley] 3
+[2019.03.19-22.40.01:033][140]LogBlueprintUserMessages: [BP_SkeeballAlley] 3
+[2019.03.19-22.40.02:032][230]LogBlueprintUserMessages: [BP_SkeeballAlley] 3
+[2019.03.19-22.40.03:033][320]LogBlueprintUserMessages: [BP_SkeeballAlley] 3
+[2019.03.19-22.40.04:033][410]LogBlueprintUserMessages: [BP_SkeeballAlley] 3
+[2019.03.19-22.40.05:032][500]LogBlueprintUserMessages: [BP_SkeeballAlley] 3
+[2019.03.19-22.40.06:033][590]LogBlueprintUserMessages: [BP_SkeeballAlley] 3
+[2019.03.19-22.40.07:033][680]LogBlueprintUserMessages: [BP_SkeeballAlley] 3
+[2019.03.19-22.40.08:033][770]LogBlueprintUserMessages: [BP_SkeeballAlley] 3
+[2019.03.19-22.40.09:033][860]LogBlueprintUserMessages: [BP_SkeeballAlley] 3
+[2019.03.19-22.40.10:043][951]LogBlueprintUserMessages: [BP_SkeeballAlley] 3
+[2019.03.19-22.40.11:044][ 41]LogBlueprintUserMessages: [BP_SkeeballAlley] 3
+[2019.03.19-22.40.12:045][108]LogBlueprintUserMessages: [BP_SkeeballAlley] 3
+[2019.03.19-22.40.13:067][154]LogBlueprintUserMessages: [BP_SkeeballAlley] 3
+[2019.03.19-22.40.14:089][200]LogBlueprintUserMessages: [BP_SkeeballAlley] 3
+[2019.03.19-22.40.15:090][245]LogBlueprintUserMessages: [BP_SkeeballAlley] 3
+[2019.03.19-22.40.16:089][290]LogBlueprintUserMessages: [BP_SkeeballAlley] 3
+[2019.03.19-22.40.17:111][336]LogBlueprintUserMessages: [BP_SkeeballAlley] 3
+[2019.03.19-22.40.18:111][381]LogBlueprintUserMessages: [BP_SkeeballAlley] 3
+[2019.03.19-22.40.19:112][426]LogBlueprintUserMessages: [BP_SkeeballAlley] 3
+[2019.03.19-22.40.20:112][471]LogBlueprintUserMessages: [BP_SkeeballAlley] 3
+[2019.03.19-22.40.21:134][517]LogBlueprintUserMessages: [BP_SkeeballAlley] 3
+[2019.03.19-22.40.22:156][563]LogBlueprintUserMessages: [BP_SkeeballAlley] 3
+[2019.03.19-22.40.23:156][608]LogBlueprintUserMessages: [BP_SkeeballAlley] 3
+[2019.03.19-22.40.24:180][637]LogBlueprintUserMessages: [BP_SkeeballAlley] 3
+[2019.03.19-22.40.25:203][675]LogBlueprintUserMessages: [BP_SkeeballAlley] 3
+[2019.03.19-22.40.26:202][712]LogBlueprintUserMessages: [BP_SkeeballAlley] 3
+[2019.03.19-22.40.27:223][752]LogBlueprintUserMessages: [BP_SkeeballAlley] 3
+[2019.03.19-22.40.28:236][796]LogBlueprintUserMessages: [BP_SkeeballAlley] 3
+[2019.03.19-22.40.29:257][841]LogBlueprintUserMessages: [BP_SkeeballAlley] 3
+[2019.03.19-22.40.30:278][887]LogBlueprintUserMessages: [BP_SkeeballAlley] 3
+[2019.03.19-22.40.31:278][932]LogBlueprintUserMessages: [BP_SkeeballAlley] 3
+[2019.03.19-22.40.32:278][977]LogBlueprintUserMessages: [BP_SkeeballAlley] 3
+[2019.03.19-22.40.33:289][ 63]LogBlueprintUserMessages: [BP_SkeeballAlley] 3
+[2019.03.19-22.40.34:289][153]LogBlueprintUserMessages: [BP_SkeeballAlley] 3
+[2019.03.19-22.40.35:289][243]LogBlueprintUserMessages: [BP_SkeeballAlley] 3
+[2019.03.19-22.40.36:300][334]LogBlueprintUserMessages: [BP_SkeeballAlley] 3
+[2019.03.19-22.40.37:312][425]LogBlueprintUserMessages: [BP_SkeeballAlley] 3
+[2019.03.19-22.40.38:312][515]LogBlueprintUserMessages: [BP_SkeeballAlley] 3
+[2019.03.19-22.40.39:312][605]LogBlueprintUserMessages: [BP_SkeeballAlley] 3
+[2019.03.19-22.40.40:323][696]LogBlueprintUserMessages: [BP_SkeeballAlley] 3
+[2019.03.19-22.40.41:346][750]LogBlueprintUserMessages: [BP_SkeeballAlley] 3
+[2019.03.19-22.40.42:368][789]LogBlueprintUserMessages: [BP_SkeeballAlley] 3
+[2019.03.19-22.40.43:390][828]LogBlueprintUserMessages: [BP_SkeeballAlley] 3
+[2019.03.19-22.40.44:390][873]LogBlueprintUserMessages: [BP_SkeeballAlley] 3
+[2019.03.19-22.40.45:413][919]LogBlueprintUserMessages: [BP_SkeeballAlley] 3
+[2019.03.19-22.40.46:413][964]LogBlueprintUserMessages: [BP_SkeeballAlley] 3
+[2019.03.19-22.40.47:414][  9]LogBlueprintUserMessages: [BP_SkeeballAlley] 3
+[2019.03.19-22.40.48:435][ 52]LogBlueprintUserMessages: [BP_SkeeballAlley] 3
+[2019.03.19-22.40.49:436][ 93]LogBlueprintUserMessages: [BP_SkeeballAlley] 3
+[2019.03.19-22.40.50:447][132]LogBlueprintUserMessages: [BP_SkeeballAlley] 3
+[2019.03.19-22.40.51:458][177]LogBlueprintUserMessages: [BP_SkeeballAlley] 3
+[2019.03.19-22.40.52:468][222]LogBlueprintUserMessages: [BP_SkeeballAlley] 3
+[2019.03.19-22.40.53:468][267]LogBlueprintUserMessages: [BP_SkeeballAlley] 3
+[2019.03.19-22.40.54:480][312]LogBlueprintUserMessages: [BP_SkeeballAlley] 3
+[2019.03.19-22.40.55:479][357]LogBlueprintUserMessages: [BP_SkeeballAlley] 3
+[2019.03.19-22.40.56:501][403]LogBlueprintUserMessages: [BP_SkeeballAlley] 3
+[2019.03.19-22.40.57:501][448]LogBlueprintUserMessages: [BP_SkeeballAlley] 3
+[2019.03.19-22.40.58:502][493]LogBlueprintUserMessages: [BP_SkeeballAlley] 3
+[2019.03.19-22.40.59:524][539]LogBlueprintUserMessages: [BP_SkeeballAlley] 3
+[2019.03.19-22.41.00:524][584]LogBlueprintUserMessages: [BP_SkeeballAlley] 3
+[2019.03.19-22.41.01:525][629]LogBlueprintUserMessages: [BP_SkeeballAlley] 3
+[2019.03.19-22.41.02:547][675]LogBlueprintUserMessages: [BP_SkeeballAlley] 3
+[2019.03.19-22.41.03:547][720]LogBlueprintUserMessages: [BP_SkeeballAlley] 3
+[2019.03.19-22.41.04:547][765]LogBlueprintUserMessages: [BP_SkeeballAlley] 3
+[2019.03.19-22.41.05:547][810]LogBlueprintUserMessages: [BP_SkeeballAlley] 3
+[2019.03.19-22.41.06:569][856]LogBlueprintUserMessages: [BP_SkeeballAlley] 3
+[2019.03.19-22.41.07:569][901]LogBlueprintUserMessages: [BP_SkeeballAlley] 3
+[2019.03.19-22.41.08:591][947]LogBlueprintUserMessages: [BP_SkeeballAlley] 3
+[2019.03.19-22.41.09:613][993]LogBlueprintUserMessages: [BP_SkeeballAlley] 3
+[2019.03.19-22.41.10:635][ 39]LogBlueprintUserMessages: [BP_SkeeballAlley] 3
+[2019.03.19-22.41.11:635][ 84]LogBlueprintUserMessages: [BP_SkeeballAlley] 3
+[2019.03.19-22.41.12:636][129]LogBlueprintUserMessages: [BP_SkeeballAlley] 3
+[2019.03.19-22.41.13:658][175]LogBlueprintUserMessages: [BP_SkeeballAlley] 3
+[2019.03.19-22.41.14:658][220]LogBlueprintUserMessages: [BP_SkeeballAlley] 3
+[2019.03.19-22.41.15:669][276]LogBlueprintUserMessages: [BP_SkeeballAlley] 3
+[2019.03.19-22.41.16:669][366]LogBlueprintUserMessages: [BP_SkeeballAlley] 3
+[2019.03.19-22.41.17:669][455]LogBlueprintUserMessages: [BP_SkeeballAlley] 3
+[2019.03.19-22.41.18:669][544]LogBlueprintUserMessages: [BP_SkeeballAlley] 3
+[2019.03.19-22.41.19:669][634]LogBlueprintUserMessages: [BP_SkeeballAlley] 3
+[2019.03.19-22.41.20:670][724]LogBlueprintUserMessages: [BP_SkeeballAlley] 3
+[2019.03.19-22.41.21:669][814]LogBlueprintUserMessages: [BP_SkeeballAlley] 3
+[2019.03.19-22.41.22:680][905]LogBlueprintUserMessages: [BP_SkeeballAlley] 3
+[2019.03.19-22.41.23:692][996]LogBlueprintUserMessages: [BP_SkeeballAlley] 3
+[2019.03.19-22.41.24:692][ 86]LogBlueprintUserMessages: [BP_SkeeballAlley] 2
+[2019.03.19-22.41.25:704][177]LogBlueprintUserMessages: [BP_SkeeballAlley] 3
+[2019.03.19-22.41.26:703][267]LogBlueprintUserMessages: [BP_SkeeballAlley] 3
+[2019.03.19-22.41.27:714][358]LogBlueprintUserMessages: [BP_SkeeballAlley] 3
+[2019.03.19-22.41.28:714][448]LogBlueprintUserMessages: [BP_SkeeballAlley] 3
+[2019.03.19-22.41.29:714][538]LogBlueprintUserMessages: [BP_SkeeballAlley] 3
+[2019.03.19-22.41.30:714][628]LogBlueprintUserMessages: [BP_SkeeballAlley] 3
+[2019.03.19-22.41.31:725][718]LogBlueprintUserMessages: [BP_SkeeballAlley] 3
+[2019.03.19-22.41.32:726][808]LogBlueprintUserMessages: [BP_SkeeballAlley] 3
+[2019.03.19-22.41.33:736][899]LogBlueprintUserMessages: [BP_SkeeballAlley] 3
+[2019.03.19-22.41.34:737][989]LogBlueprintUserMessages: [BP_SkeeballAlley] 3
+[2019.03.19-22.41.35:736][ 79]LogBlueprintUserMessages: [BP_SkeeballAlley] 3
+[2019.03.19-22.41.36:736][169]LogBlueprintUserMessages: [BP_SkeeballAlley] 3
+[2019.03.19-22.41.37:748][260]LogBlueprintUserMessages: [BP_SkeeballAlley] 2
+[2019.03.19-22.41.38:748][350]LogBlueprintUserMessages: [BP_SkeeballAlley] 3
+[2019.03.19-22.41.39:748][439]LogBlueprintUserMessages: [BP_SkeeballAlley] 3
+[2019.03.19-22.41.40:748][528]LogBlueprintUserMessages: [BP_SkeeballAlley] 3
+[2019.03.19-22.41.41:748][618]LogBlueprintUserMessages: [BP_SkeeballAlley] 3
+[2019.03.19-22.41.42:758][709]LogBlueprintUserMessages: [BP_SkeeballAlley] 3
+[2019.03.19-22.41.42:758][709]LogBlueprintUserMessages: [BP_SkeeballAlley] 20P_Trigger
+[2019.03.19-22.41.43:770][800]LogBlueprintUserMessages: [BP_SkeeballAlley] 3
+[2019.03.19-22.41.44:770][890]LogBlueprintUserMessages: [BP_SkeeballAlley] 3
+[2019.03.19-22.41.45:770][980]LogBlueprintUserMessages: [BP_SkeeballAlley] 2
+[2019.03.19-22.41.46:781][ 71]LogBlueprintUserMessages: [BP_SkeeballAlley] 3
+[2019.03.19-22.41.47:792][162]LogBlueprintUserMessages: [BP_SkeeballAlley] 3
+[2019.03.19-22.41.48:792][252]LogBlueprintUserMessages: [BP_SkeeballAlley] 3
+[2019.03.19-22.41.49:793][342]LogBlueprintUserMessages: [BP_SkeeballAlley] 3
+[2019.03.19-22.41.49:793][342]LogBlueprintUserMessages: [BP_SkeeballAlley] 20P_Trigger
+[2019.03.19-22.41.50:804][433]LogBlueprintUserMessages: [BP_SkeeballAlley] 3
+[2019.03.19-22.41.51:804][523]LogBlueprintUserMessages: [BP_SkeeballAlley] 2
+[2019.03.19-22.41.52:804][613]LogBlueprintUserMessages: [BP_SkeeballAlley] 3
+[2019.03.19-22.41.53:803][703]LogBlueprintUserMessages: [BP_SkeeballAlley] 3
+[2019.03.19-22.41.54:804][793]LogBlueprintUserMessages: [BP_SkeeballAlley] 3
+[2019.03.19-22.41.55:803][883]LogBlueprintUserMessages: [BP_SkeeballAlley] 3
+[2019.03.19-22.41.56:814][974]LogBlueprintUserMessages: [BP_SkeeballAlley] 3
+[2019.03.19-22.41.56:814][974]LogBlueprintUserMessages: [BP_SkeeballAlley] 10P_Trigger
+[2019.03.19-22.41.57:815][ 64]LogBlueprintUserMessages: [BP_SkeeballAlley] 3
+[2019.03.19-22.41.58:815][154]LogBlueprintUserMessages: [BP_SkeeballAlley] 2
+[2019.03.19-22.41.59:815][244]LogBlueprintUserMessages: [BP_SkeeballAlley] 3
+[2019.03.19-22.42.00:815][333]LogBlueprintUserMessages: [BP_SkeeballAlley] 3
+[2019.03.19-22.42.01:815][423]LogBlueprintUserMessages: [BP_SkeeballAlley] 3
+[2019.03.19-22.42.02:815][513]LogBlueprintUserMessages: [BP_SkeeballAlley] 3
+[2019.03.19-22.42.03:582][582]LogBlueprintUserMessages: [BP_SkeeballAlley] 6
+[2019.03.19-22.42.03:815][603]LogBlueprintUserMessages: [BP_SkeeballAlley] 3
+[2019.03.19-22.42.04:826][694]LogBlueprintUserMessages: [BP_SkeeballAlley] 2
+[2019.03.19-22.42.05:826][784]LogBlueprintUserMessages: [BP_SkeeballAlley] 3
+[2019.03.19-22.42.06:827][874]LogBlueprintUserMessages: [BP_SkeeballAlley] 3
+[2019.03.19-22.42.07:837][965]LogBlueprintUserMessages: [BP_SkeeballAlley] 3
+[2019.03.19-22.42.08:838][ 55]LogBlueprintUserMessages: [BP_SkeeballAlley] 3
+[2019.03.19-22.42.09:838][145]LogBlueprintUserMessages: [BP_SkeeballAlley] 3
+[2019.03.19-22.42.10:838][235]LogBlueprintUserMessages: [BP_SkeeballAlley] 2
+[2019.03.19-22.42.10:838][235]LogBlueprintUserMessages: [BP_SkeeballAlley] 20P_Trigger
+[2019.03.19-22.42.11:838][325]LogBlueprintUserMessages: [BP_SkeeballAlley] 3
+[2019.03.19-22.42.12:837][415]LogBlueprintUserMessages: [BP_SkeeballAlley] 3
+[2019.03.19-22.42.13:850][506]LogBlueprintUserMessages: [BP_SkeeballAlley] 3
+[2019.03.19-22.42.14:849][595]LogBlueprintUserMessages: [BP_SkeeballAlley] 3
+[2019.03.19-22.42.15:849][685]LogBlueprintUserMessages: [BP_SkeeballAlley] 3
+[2019.03.19-22.42.16:861][776]LogBlueprintUserMessages: [BP_SkeeballAlley] 3
+[2019.03.19-22.42.17:861][866]LogBlueprintUserMessages: [BP_SkeeballAlley] 3
+[2019.03.19-22.42.18:871][957]LogBlueprintUserMessages: [BP_SkeeballAlley] 2
+[2019.03.19-22.42.19:883][ 48]LogBlueprintUserMessages: [BP_SkeeballAlley] 3
+[2019.03.19-22.42.20:883][138]LogBlueprintUserMessages: [BP_SkeeballAlley] 3
+[2019.03.19-22.42.21:882][228]LogBlueprintUserMessages: [BP_SkeeballAlley] 3
+[2019.03.19-22.42.22:894][319]LogBlueprintUserMessages: [BP_SkeeballAlley] 3
+[2019.03.19-22.42.23:893][409]LogBlueprintUserMessages: [BP_SkeeballAlley] 3
+[2019.03.19-22.42.24:894][499]LogBlueprintUserMessages: [BP_SkeeballAlley] 3
+[2019.03.19-22.42.25:894][589]LogBlueprintUserMessages: [BP_SkeeballAlley] 3
+[2019.03.19-22.42.26:894][679]LogBlueprintUserMessages: [BP_SkeeballAlley] 3
+[2019.03.19-22.42.27:894][769]LogBlueprintUserMessages: [BP_SkeeballAlley] 3
+[2019.03.19-22.42.28:905][860]LogBlueprintUserMessages: [BP_SkeeballAlley] 2
+[2019.03.19-22.42.29:906][950]LogBlueprintUserMessages: [BP_SkeeballAlley] 3
+[2019.03.19-22.42.30:905][ 40]LogBlueprintUserMessages: [BP_SkeeballAlley] 3
+[2019.03.19-22.42.31:906][130]LogBlueprintUserMessages: [BP_SkeeballAlley] 3
+[2019.03.19-22.42.31:906][130]LogBlueprintUserMessages: [BP_SkeeballAlley] 30P_Trigger
+[2019.03.19-22.42.32:916][221]LogBlueprintUserMessages: [BP_SkeeballAlley] 3
+[2019.03.19-22.42.33:927][312]LogBlueprintUserMessages: [BP_SkeeballAlley] 3
+[2019.03.19-22.42.34:928][402]LogBlueprintUserMessages: [BP_SkeeballAlley] 2
+[2019.03.19-22.42.35:928][492]LogBlueprintUserMessages: [BP_SkeeballAlley] 3
+[2019.03.19-22.42.36:928][582]LogBlueprintUserMessages: [BP_SkeeballAlley] 3
+[2019.03.19-22.42.37:939][673]LogBlueprintUserMessages: [BP_SkeeballAlley] 3
+[2019.03.19-22.42.38:939][763]LogBlueprintUserMessages: [BP_SkeeballAlley] 3
+[2019.03.19-22.42.39:950][854]LogBlueprintUserMessages: [BP_SkeeballAlley] 2
+[2019.03.19-22.42.40:950][944]LogBlueprintUserMessages: [BP_SkeeballAlley] 3
+[2019.03.19-22.42.41:950][ 34]LogBlueprintUserMessages: [BP_SkeeballAlley] 3
+[2019.03.19-22.42.42:950][124]LogBlueprintUserMessages: [BP_SkeeballAlley] 3
+[2019.03.19-22.42.43:961][215]LogBlueprintUserMessages: [BP_SkeeballAlley] 3
+[2019.03.19-22.42.44:962][305]LogBlueprintUserMessages: [BP_SkeeballAlley] 2
+[2019.03.19-22.42.45:962][395]LogBlueprintUserMessages: [BP_SkeeballAlley] 3
+[2019.03.19-22.42.46:973][486]LogBlueprintUserMessages: [BP_SkeeballAlley] 3
+[2019.03.19-22.42.47:972][575]LogBlueprintUserMessages: [BP_SkeeballAlley] 3
+[2019.03.19-22.42.48:973][665]LogBlueprintUserMessages: [BP_SkeeballAlley] 3
+[2019.03.19-22.42.48:973][665]LogBlueprintUserMessages: [BP_SkeeballAlley] 100P_Trigger
+[2019.03.19-22.42.49:973][755]LogBlueprintUserMessages: [BP_SkeeballAlley] 3
+[2019.03.19-22.42.50:973][845]LogBlueprintUserMessages: [BP_SkeeballAlley] 3
+[2019.03.19-22.42.51:973][935]LogBlueprintUserMessages: [BP_SkeeballAlley] 3
+[2019.03.19-22.42.52:973][ 25]LogBlueprintUserMessages: [BP_SkeeballAlley] 3
+[2019.03.19-22.42.53:973][115]LogBlueprintUserMessages: [BP_SkeeballAlley] 3
+[2019.03.19-22.42.54:974][205]LogBlueprintUserMessages: [BP_SkeeballAlley] 2
+[2019.03.19-22.42.55:973][295]LogBlueprintUserMessages: [BP_SkeeballAlley] 2
+[2019.03.19-22.42.56:973][385]LogBlueprintUserMessages: [BP_SkeeballAlley] 2
+[2019.03.19-22.42.57:984][474]LogBlueprintUserMessages: [BP_SkeeballAlley] 2
+[2019.03.19-22.42.58:984][564]LogBlueprintUserMessages: [BP_SkeeballAlley] 2
+[2019.03.19-22.42.59:984][654]LogBlueprintUserMessages: [BP_SkeeballAlley] 2
+[2019.03.19-22.43.00:995][745]LogBlueprintUserMessages: [BP_SkeeballAlley] 3
+[2019.03.19-22.43.01:996][835]LogBlueprintUserMessages: [BP_SkeeballAlley] 2
+[2019.03.19-22.43.02:995][925]LogBlueprintUserMessages: [BP_SkeeballAlley] 2
+[2019.03.19-22.43.03:995][ 15]LogBlueprintUserMessages: [BP_SkeeballAlley] 2
+[2019.03.19-22.43.04:996][105]LogBlueprintUserMessages: [BP_SkeeballAlley] 2
+[2019.03.19-22.43.05:995][195]LogBlueprintUserMessages: [BP_SkeeballAlley] 2
+[2019.03.19-22.43.07:006][286]LogBlueprintUserMessages: [BP_SkeeballAlley] 2
+[2019.03.19-22.43.08:006][376]LogBlueprintUserMessages: [BP_SkeeballAlley] 2
+[2019.03.19-22.43.09:006][465]LogBlueprintUserMessages: [BP_SkeeballAlley] 2
+[2019.03.19-22.43.10:007][555]LogBlueprintUserMessages: [BP_SkeeballAlley] 2
+[2019.03.19-22.43.11:007][645]LogBlueprintUserMessages: [BP_SkeeballAlley] 2
+[2019.03.19-22.43.12:018][736]LogBlueprintUserMessages: [BP_SkeeballAlley] 2
+[2019.03.19-22.43.13:018][826]LogBlueprintUserMessages: [BP_SkeeballAlley] 2
+[2019.03.19-22.43.14:017][916]LogBlueprintUserMessages: [BP_SkeeballAlley] 2
+[2019.03.19-22.43.15:018][  6]LogBlueprintUserMessages: [BP_SkeeballAlley] 2
+[2019.03.19-22.43.16:019][ 96]LogBlueprintUserMessages: [BP_SkeeballAlley] 1
+[2019.03.19-22.43.17:030][187]LogBlueprintUserMessages: [BP_SkeeballAlley] 1
+[2019.03.19-22.43.18:029][275]LogBlueprintUserMessages: [BP_SkeeballAlley] 1
+[2019.03.19-22.43.19:029][365]LogBlueprintUserMessages: [BP_SkeeballAlley] 1
+[2019.03.19-22.43.20:040][456]LogBlueprintUserMessages: [BP_SkeeballAlley] 1
+[2019.03.19-22.43.21:041][546]LogBlueprintUserMessages: [BP_SkeeballAlley] 2
+[2019.03.19-22.43.22:051][637]LogBlueprintUserMessages: [BP_SkeeballAlley] 1
+[2019.03.19-22.43.23:052][724]LogBlueprintUserMessages: [BP_SkeeballAlley] 1
+[2019.03.19-22.43.24:052][814]LogBlueprintUserMessages: [BP_SkeeballAlley] 1
+[2019.03.19-22.43.25:062][905]LogBlueprintUserMessages: [BP_SkeeballAlley] 1
+[2019.03.19-22.43.26:063][995]LogBlueprintUserMessages: [BP_SkeeballAlley] 1
+[2019.03.19-22.43.26:063][995]LogBlueprintUserMessages: [BP_SkeeballAlley] 20P_Trigger
+[2019.03.19-22.43.27:063][ 85]LogBlueprintUserMessages: [BP_SkeeballAlley] 1
+[2019.03.19-22.43.28:075][176]LogBlueprintUserMessages: [BP_SkeeballAlley] 0
+[2019.03.19-22.43.29:085][267]LogBlueprintUserMessages: [BP_SkeeballAlley] 0
+[2019.03.19-22.43.30:086][356]LogBlueprintUserMessages: [BP_SkeeballAlley] 0
+[2019.03.19-22.43.31:086][446]LogBlueprintUserMessages: [BP_SkeeballAlley] 0
+[2019.03.19-22.43.32:097][537]LogBlueprintUserMessages: [BP_SkeeballAlley] 0
+[2019.03.19-22.43.32:097][537]LogBlueprintUserMessages: [BP_SkeeballAlley] 10P_Trigger
+[2019.03.19-22.43.33:097][627]LogBlueprintUserMessages: [BP_SkeeballAlley] 0
+[2019.03.19-22.43.34:096][717]LogBlueprintUserMessages: [BP_SkeeballAlley] 0
+[2019.03.19-22.43.34:308][736]LogBlueprintUserMessages: [BP_SkeeballAlley] 9
+[2019.03.19-22.43.34:330][738]LogBlueprintUserMessages: [BP_SkeeballAlley] 0
+[2019.03.19-22.43.34:463][750]LogBlueprintUserMessages: [BP_SkeeballAlley] 0
+[2019.03.19-22.43.35:097][807]LogBlueprintUserMessages: [BP_SkeeballAlley] 1
+[2019.03.19-22.43.36:108][898]LogBlueprintUserMessages: [BP_SkeeballAlley] 2
+[2019.03.19-22.43.37:119][989]LogBlueprintUserMessages: [BP_SkeeballAlley] 3
+[2019.03.19-22.43.38:119][ 79]LogBlueprintUserMessages: [BP_SkeeballAlley] 4
+[2019.03.19-22.43.39:119][169]LogBlueprintUserMessages: [BP_SkeeballAlley] 5
+[2019.03.19-22.43.40:131][260]LogBlueprintUserMessages: [BP_SkeeballAlley] 5
+[2019.03.19-22.43.41:131][350]LogBlueprintUserMessages: [BP_SkeeballAlley] 5
+[2019.03.19-22.43.42:130][440]LogBlueprintUserMessages: [BP_SkeeballAlley] 5
+[2019.03.19-22.43.43:131][530]LogBlueprintUserMessages: [BP_SkeeballAlley] 5
+[2019.03.19-22.43.44:143][620]LogBlueprintUserMessages: [BP_SkeeballAlley] 4
+[2019.03.19-22.43.45:142][710]LogBlueprintUserMessages: [BP_SkeeballAlley] 4
+[2019.03.19-22.43.46:152][801]LogBlueprintUserMessages: [BP_SkeeballAlley] 4
+[2019.03.19-22.43.47:163][892]LogBlueprintUserMessages: [BP_SkeeballAlley] 4
+[2019.03.19-22.43.48:164][982]LogBlueprintUserMessages: [BP_SkeeballAlley] 4
+[2019.03.19-22.43.49:164][ 72]LogBlueprintUserMessages: [BP_SkeeballAlley] 4
+[2019.03.19-22.43.50:164][162]LogBlueprintUserMessages: [BP_SkeeballAlley] 4
+[2019.03.19-22.43.51:164][252]LogBlueprintUserMessages: [BP_SkeeballAlley] 4
+[2019.03.19-22.43.52:175][343]LogBlueprintUserMessages: [BP_SkeeballAlley] 4
+[2019.03.19-22.43.53:186][434]LogBlueprintUserMessages: [BP_SkeeballAlley] 4
+[2019.03.19-22.43.54:198][525]LogBlueprintUserMessages: [BP_SkeeballAlley] 4
+[2019.03.19-22.43.55:197][615]LogBlueprintUserMessages: [BP_SkeeballAlley] 4
+[2019.03.19-22.43.56:198][705]LogBlueprintUserMessages: [BP_SkeeballAlley] 4
+[2019.03.19-22.43.57:208][796]LogBlueprintUserMessages: [BP_SkeeballAlley] 4
+[2019.03.19-22.43.58:208][886]LogBlueprintUserMessages: [BP_SkeeballAlley] 4
+[2019.03.19-22.43.59:220][972]LogBlueprintUserMessages: [BP_SkeeballAlley] 4
+[2019.03.19-22.44.00:220][ 61]LogBlueprintUserMessages: [BP_SkeeballAlley] 4
+[2019.03.19-22.44.01:220][150]LogBlueprintUserMessages: [BP_SkeeballAlley] 4
+[2019.03.19-22.44.02:220][240]LogBlueprintUserMessages: [BP_SkeeballAlley] 4
+[2019.03.19-22.44.03:220][330]LogBlueprintUserMessages: [BP_SkeeballAlley] 4
+[2019.03.19-22.44.04:220][420]LogBlueprintUserMessages: [BP_SkeeballAlley] 4
+[2019.03.19-22.44.05:220][510]LogBlueprintUserMessages: [BP_SkeeballAlley] 4
+[2019.03.19-22.44.06:220][600]LogBlueprintUserMessages: [BP_SkeeballAlley] 4
+[2019.03.19-22.44.07:220][690]LogBlueprintUserMessages: [BP_SkeeballAlley] 4
+[2019.03.19-22.44.08:231][781]LogBlueprintUserMessages: [BP_SkeeballAlley] 4
+[2019.03.19-22.44.09:232][871]LogBlueprintUserMessages: [BP_SkeeballAlley] 4
+[2019.03.19-22.44.10:242][962]LogBlueprintUserMessages: [BP_SkeeballAlley] 4
+[2019.03.19-22.44.11:242][ 52]LogBlueprintUserMessages: [BP_SkeeballAlley] 4
+[2019.03.19-22.44.12:253][143]LogBlueprintUserMessages: [BP_SkeeballAlley] 4
+[2019.03.19-22.44.13:254][233]LogBlueprintUserMessages: [BP_SkeeballAlley] 4
+[2019.03.19-22.44.14:254][323]LogBlueprintUserMessages: [BP_SkeeballAlley] 4
+[2019.03.19-22.44.15:265][414]LogBlueprintUserMessages: [BP_SkeeballAlley] 4
+[2019.03.19-22.44.16:265][504]LogBlueprintUserMessages: [BP_SkeeballAlley] 4
+[2019.03.19-22.44.17:266][594]LogBlueprintUserMessages: [BP_SkeeballAlley] 4
+[2019.03.19-22.44.18:276][685]LogBlueprintUserMessages: [BP_SkeeballAlley] 4
+[2019.03.19-22.44.19:287][776]LogBlueprintUserMessages: [BP_SkeeballAlley] 4
+[2019.03.19-22.44.20:288][866]LogBlueprintUserMessages: [BP_SkeeballAlley] 4
+[2019.03.19-22.44.21:299][957]LogBlueprintUserMessages: [BP_SkeeballAlley] 4
+[2019.03.19-22.44.22:298][ 47]LogBlueprintUserMessages: [BP_SkeeballAlley] 4
+[2019.03.19-22.44.23:310][138]LogBlueprintUserMessages: [BP_SkeeballAlley] 4
+[2019.03.19-22.44.24:322][228]LogBlueprintUserMessages: [BP_SkeeballAlley] 4
+[2019.03.19-22.44.25:332][319]LogBlueprintUserMessages: [BP_SkeeballAlley] 4
+[2019.03.19-22.44.26:332][409]LogBlueprintUserMessages: [BP_SkeeballAlley] 4
+[2019.03.19-22.44.27:332][499]LogBlueprintUserMessages: [BP_SkeeballAlley] 4
+[2019.03.19-22.44.28:332][589]LogBlueprintUserMessages: [BP_SkeeballAlley] 4
+[2019.03.19-22.44.29:332][679]LogBlueprintUserMessages: [BP_SkeeballAlley] 4
+[2019.03.19-22.44.30:332][769]LogBlueprintUserMessages: [BP_SkeeballAlley] 4
+[2019.03.19-22.44.31:332][859]LogBlueprintUserMessages: [BP_SkeeballAlley] 4
+[2019.03.19-22.44.32:333][949]LogBlueprintUserMessages: [BP_SkeeballAlley] 4
+[2019.03.19-22.44.33:332][ 39]LogBlueprintUserMessages: [BP_SkeeballAlley] 4
+[2019.03.19-22.44.34:332][129]LogBlueprintUserMessages: [BP_SkeeballAlley] 4
+[2019.03.19-22.44.35:332][219]LogBlueprintUserMessages: [BP_SkeeballAlley] 4
+[2019.03.19-22.44.36:343][288]LogBlueprintUserMessages: [BP_SkeeballAlley] 4
+[2019.03.19-22.44.37:344][364]LogBlueprintUserMessages: [BP_SkeeballAlley] 4
+[2019.03.19-22.44.38:344][425]LogBlueprintUserMessages: [BP_SkeeballAlley] 4
+[2019.03.19-22.44.39:344][506]LogBlueprintUserMessages: [BP_SkeeballAlley] 4
+[2019.03.19-22.44.40:344][596]LogBlueprintUserMessages: [BP_SkeeballAlley] 4
+[2019.03.19-22.44.41:356][687]LogBlueprintUserMessages: [BP_SkeeballAlley] 4
+[2019.03.19-22.44.42:366][776]LogBlueprintUserMessages: [BP_SkeeballAlley] 4
+[2019.03.19-22.44.43:366][857]LogBlueprintUserMessages: [BP_SkeeballAlley] 4
+[2019.03.19-22.44.44:377][942]LogBlueprintUserMessages: [BP_SkeeballAlley] 4
+[2019.03.19-22.44.45:377][ 18]LogBlueprintUserMessages: [BP_SkeeballAlley] 4
+[2019.03.19-22.44.46:378][ 95]LogBlueprintUserMessages: [BP_SkeeballAlley] 4
+[2019.03.19-22.44.47:388][175]LogBlueprintUserMessages: [BP_SkeeballAlley] 4
+[2019.03.19-22.44.48:389][243]LogBlueprintUserMessages: [BP_SkeeballAlley] 4
+[2019.03.19-22.44.49:400][332]LogBlueprintUserMessages: [BP_SkeeballAlley] 4
+[2019.03.19-22.44.50:411][420]LogBlueprintUserMessages: [BP_SkeeballAlley] 4
+[2019.03.19-22.44.51:410][509]LogBlueprintUserMessages: [BP_SkeeballAlley] 4
+[2019.03.19-22.44.52:411][599]LogBlueprintUserMessages: [BP_SkeeballAlley] 4
+[2019.03.19-22.44.53:411][689]LogBlueprintUserMessages: [BP_SkeeballAlley] 4
+[2019.03.19-22.44.54:411][778]LogBlueprintUserMessages: [BP_SkeeballAlley] 4
+[2019.03.19-22.44.55:411][866]LogBlueprintUserMessages: [BP_SkeeballAlley] 4
+[2019.03.19-22.44.56:411][955]LogBlueprintUserMessages: [BP_SkeeballAlley] 4
+[2019.03.19-22.44.57:422][ 45]LogBlueprintUserMessages: [BP_SkeeballAlley] 4
+[2019.03.19-22.44.58:422][123]LogBlueprintUserMessages: [BP_SkeeballAlley] 4
+[2019.03.19-22.44.59:422][207]LogBlueprintUserMessages: [BP_SkeeballAlley] 4
+[2019.03.19-22.45.00:434][281]LogBlueprintUserMessages: [BP_SkeeballAlley] 4
+[2019.03.19-22.45.01:444][363]LogBlueprintUserMessages: [BP_SkeeballAlley] 4
+[2019.03.19-22.45.02:444][451]LogBlueprintUserMessages: [BP_SkeeballAlley] 4
+[2019.03.19-22.45.03:445][525]LogBlueprintUserMessages: [BP_SkeeballAlley] 4
+[2019.03.19-22.45.04:457][607]LogBlueprintUserMessages: [BP_SkeeballAlley] 4
+[2019.03.19-22.45.05:466][666]LogBlueprintUserMessages: [BP_SkeeballAlley] 4
+[2019.03.19-22.45.06:467][755]LogBlueprintUserMessages: [BP_SkeeballAlley] 4
+[2019.03.19-22.45.07:478][846]LogBlueprintUserMessages: [BP_SkeeballAlley] 4
+[2019.03.19-22.45.08:478][936]LogBlueprintUserMessages: [BP_SkeeballAlley] 4
+[2019.03.19-22.45.09:479][ 26]LogBlueprintUserMessages: [BP_SkeeballAlley] 4
+[2019.03.19-22.45.10:478][116]LogBlueprintUserMessages: [BP_SkeeballAlley] 4
+[2019.03.19-22.45.11:479][206]LogBlueprintUserMessages: [BP_SkeeballAlley] 4
+[2019.03.19-22.45.12:490][297]LogBlueprintUserMessages: [BP_SkeeballAlley] 4
+[2019.03.19-22.45.13:500][388]LogBlueprintUserMessages: [BP_SkeeballAlley] 4
+[2019.03.19-22.45.14:501][478]LogBlueprintUserMessages: [BP_SkeeballAlley] 4
+[2019.03.19-22.45.15:512][569]LogBlueprintUserMessages: [BP_SkeeballAlley] 4
+[2019.03.19-22.45.16:512][659]LogBlueprintUserMessages: [BP_SkeeballAlley] 4
+[2019.03.19-22.45.17:523][750]LogBlueprintUserMessages: [BP_SkeeballAlley] 4
+[2019.03.19-22.45.18:535][841]LogBlueprintUserMessages: [BP_SkeeballAlley] 4
+[2019.03.19-22.45.19:546][932]LogBlueprintUserMessages: [BP_SkeeballAlley] 4
+[2019.03.19-22.45.20:557][ 23]LogBlueprintUserMessages: [BP_SkeeballAlley] 4
+[2019.03.19-22.45.21:568][114]LogBlueprintUserMessages: [BP_SkeeballAlley] 4
+[2019.03.19-22.45.22:568][203]LogBlueprintUserMessages: [BP_SkeeballAlley] 4
+[2019.03.19-22.45.23:568][293]LogBlueprintUserMessages: [BP_SkeeballAlley] 4
+[2019.03.19-22.45.24:579][384]LogBlueprintUserMessages: [BP_SkeeballAlley] 4
+[2019.03.19-22.45.25:590][475]LogBlueprintUserMessages: [BP_SkeeballAlley] 4
+[2019.03.19-22.45.26:590][565]LogBlueprintUserMessages: [BP_SkeeballAlley] 4
+[2019.03.19-22.45.27:601][656]LogBlueprintUserMessages: [BP_SkeeballAlley] 4
+[2019.03.19-22.45.28:602][746]LogBlueprintUserMessages: [BP_SkeeballAlley] 4
+[2019.03.19-22.45.29:613][837]LogBlueprintUserMessages: [BP_SkeeballAlley] 4
+[2019.03.19-22.45.30:612][926]LogBlueprintUserMessages: [BP_SkeeballAlley] 4
+[2019.03.19-22.45.31:613][ 16]LogBlueprintUserMessages: [BP_SkeeballAlley] 4
+[2019.03.19-22.45.32:612][106]LogBlueprintUserMessages: [BP_SkeeballAlley] 4
+[2019.03.19-22.45.33:613][196]LogBlueprintUserMessages: [BP_SkeeballAlley] 4
+[2019.03.19-22.45.34:613][286]LogBlueprintUserMessages: [BP_SkeeballAlley] 4
+[2019.03.19-22.45.35:613][376]LogBlueprintUserMessages: [BP_SkeeballAlley] 4
+[2019.03.19-22.45.36:613][466]LogBlueprintUserMessages: [BP_SkeeballAlley] 4
+[2019.03.19-22.45.37:625][557]LogBlueprintUserMessages: [BP_SkeeballAlley] 4
+[2019.03.19-22.45.38:624][647]LogBlueprintUserMessages: [BP_SkeeballAlley] 4
+[2019.03.19-22.45.39:625][737]LogBlueprintUserMessages: [BP_SkeeballAlley] 4
+[2019.03.19-22.45.40:624][827]LogBlueprintUserMessages: [BP_SkeeballAlley] 4
+[2019.03.19-22.45.41:635][918]LogBlueprintUserMessages: [BP_SkeeballAlley] 4
+[2019.03.19-22.45.42:635][  8]LogBlueprintUserMessages: [BP_SkeeballAlley] 4
+[2019.03.19-22.45.43:646][ 99]LogBlueprintUserMessages: [BP_SkeeballAlley] 4
+[2019.03.19-22.45.44:646][189]LogBlueprintUserMessages: [BP_SkeeballAlley] 4
+[2019.03.19-22.45.45:657][280]LogBlueprintUserMessages: [BP_SkeeballAlley] 4
+[2019.03.19-22.45.46:658][370]LogBlueprintUserMessages: [BP_SkeeballAlley] 4
+[2019.03.19-22.45.47:658][460]LogBlueprintUserMessages: [BP_SkeeballAlley] 4
+[2019.03.19-22.45.48:668][551]LogBlueprintUserMessages: [BP_SkeeballAlley] 4
+[2019.03.19-22.45.49:668][641]LogBlueprintUserMessages: [BP_SkeeballAlley] 4
+[2019.03.19-22.45.50:669][731]LogBlueprintUserMessages: [BP_SkeeballAlley] 4
+[2019.03.19-22.45.51:668][821]LogBlueprintUserMessages: [BP_SkeeballAlley] 4
+[2019.03.19-22.45.52:669][911]LogBlueprintUserMessages: [BP_SkeeballAlley] 4
+[2019.03.19-22.45.53:669][  1]LogBlueprintUserMessages: [BP_SkeeballAlley] 4
+[2019.03.19-22.45.54:669][ 91]LogBlueprintUserMessages: [BP_SkeeballAlley] 4
+[2019.03.19-22.45.55:680][182]LogBlueprintUserMessages: [BP_SkeeballAlley] 4
+[2019.03.19-22.45.56:681][272]LogBlueprintUserMessages: [BP_SkeeballAlley] 4
+[2019.03.19-22.45.57:692][363]LogBlueprintUserMessages: [BP_SkeeballAlley] 4
+[2019.03.19-22.45.58:691][453]LogBlueprintUserMessages: [BP_SkeeballAlley] 4
+[2019.03.19-22.45.59:691][543]LogBlueprintUserMessages: [BP_SkeeballAlley] 4
+[2019.03.19-22.46.00:702][634]LogBlueprintUserMessages: [BP_SkeeballAlley] 4
+[2019.03.19-22.46.01:703][724]LogBlueprintUserMessages: [BP_SkeeballAlley] 4
+[2019.03.19-22.46.02:703][814]LogBlueprintUserMessages: [BP_SkeeballAlley] 4
+[2019.03.19-22.46.03:702][904]LogBlueprintUserMessages: [BP_SkeeballAlley] 4
+[2019.03.19-22.46.04:703][994]LogBlueprintUserMessages: [BP_SkeeballAlley] 4
+[2019.03.19-22.46.05:713][ 85]LogBlueprintUserMessages: [BP_SkeeballAlley] 4
+[2019.03.19-22.46.06:725][176]LogBlueprintUserMessages: [BP_SkeeballAlley] 4
+[2019.03.19-22.46.07:725][266]LogBlueprintUserMessages: [BP_SkeeballAlley] 4
+[2019.03.19-22.46.08:725][356]LogBlueprintUserMessages: [BP_SkeeballAlley] 4
+[2019.03.19-22.46.09:726][446]LogBlueprintUserMessages: [BP_SkeeballAlley] 4
+[2019.03.19-22.46.10:736][537]LogBlueprintUserMessages: [BP_SkeeballAlley] 4
+[2019.03.19-22.46.11:736][627]LogBlueprintUserMessages: [BP_SkeeballAlley] 4
+[2019.03.19-22.46.12:736][717]LogBlueprintUserMessages: [BP_SkeeballAlley] 4
+[2019.03.19-22.46.13:737][807]LogBlueprintUserMessages: [BP_SkeeballAlley] 4
+[2019.03.19-22.46.14:281][856]LogScript: Warning: Attempted to access BP_Tennis_Ball_C_44 via property CallFunc_FinishSpawningActor_ReturnValue, but BP_Tennis_Ball_C_44 is pending kill
+	BP_Ball_Launcher_C /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.BP_Ball_Launcher2
+	Function /Game/VirtualRealityBP/Blueprints/Props/BP_Ball_Launcher.BP_Ball_Launcher_C:ExecuteUbergraph_BP_Ball_Launcher:04D8
+[2019.03.19-22.46.14:281][856]LogScript: Warning: Script call stack:
+	Function /Game/VirtualRealityBP/Blueprints/Props/BP_Ball_Launcher.BP_Ball_Launcher_C:Timeline_0__UpdateFunc
+	Function /Game/VirtualRealityBP/Blueprints/Props/BP_Ball_Launcher.BP_Ball_Launcher_C:ExecuteUbergraph_BP_Ball_Launcher
+
+[2019.03.19-22.46.14:281][856]LogScript: Warning: Accessed None
+	BP_Ball_Launcher_C /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.BP_Ball_Launcher2
+	Function /Game/VirtualRealityBP/Blueprints/Props/BP_Ball_Launcher.BP_Ball_Launcher_C:ExecuteUbergraph_BP_Ball_Launcher:04ED
+[2019.03.19-22.46.14:281][856]LogScript: Warning: Script call stack:
+	Function /Game/VirtualRealityBP/Blueprints/Props/BP_Ball_Launcher.BP_Ball_Launcher_C:Timeline_0__UpdateFunc
+	Function /Game/VirtualRealityBP/Blueprints/Props/BP_Ball_Launcher.BP_Ball_Launcher_C:ExecuteUbergraph_BP_Ball_Launcher
+
+[2019.03.19-22.46.14:281][856]LogScript: Warning: Attempted to access BP_Tennis_Ball_C_44 via property CallFunc_FinishSpawningActor_ReturnValue, but BP_Tennis_Ball_C_44 is pending kill
+	BP_Ball_Launcher_C /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.BP_Ball_Launcher2
+	Function /Game/VirtualRealityBP/Blueprints/Props/BP_Ball_Launcher.BP_Ball_Launcher_C:ExecuteUbergraph_BP_Ball_Launcher:0566
+[2019.03.19-22.46.14:281][856]LogScript: Warning: Script call stack:
+	Function /Game/VirtualRealityBP/Blueprints/Props/BP_Ball_Launcher.BP_Ball_Launcher_C:Timeline_0__UpdateFunc
+	Function /Game/VirtualRealityBP/Blueprints/Props/BP_Ball_Launcher.BP_Ball_Launcher_C:ExecuteUbergraph_BP_Ball_Launcher
+
+[2019.03.19-22.46.14:281][856]LogScript: Warning: Accessed None
+	BP_Ball_Launcher_C /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.BP_Ball_Launcher2
+	Function /Game/VirtualRealityBP/Blueprints/Props/BP_Ball_Launcher.BP_Ball_Launcher_C:ExecuteUbergraph_BP_Ball_Launcher:057B
+[2019.03.19-22.46.14:281][856]LogScript: Warning: Script call stack:
+	Function /Game/VirtualRealityBP/Blueprints/Props/BP_Ball_Launcher.BP_Ball_Launcher_C:Timeline_0__UpdateFunc
+	Function /Game/VirtualRealityBP/Blueprints/Props/BP_Ball_Launcher.BP_Ball_Launcher_C:ExecuteUbergraph_BP_Ball_Launcher
+
+[2019.03.19-22.46.14:292][857]LogScript: Warning: Attempted to access BP_Tennis_Ball_C_44 via property CallFunc_FinishSpawningActor_ReturnValue, but BP_Tennis_Ball_C_44 is pending kill
+	BP_Ball_Launcher_C /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.BP_Ball_Launcher2
+	Function /Game/VirtualRealityBP/Blueprints/Props/BP_Ball_Launcher.BP_Ball_Launcher_C:ExecuteUbergraph_BP_Ball_Launcher:04D8
+[2019.03.19-22.46.14:292][857]LogScript: Warning: Script call stack:
+	Function /Game/VirtualRealityBP/Blueprints/Props/BP_Ball_Launcher.BP_Ball_Launcher_C:Timeline_0__UpdateFunc
+	Function /Game/VirtualRealityBP/Blueprints/Props/BP_Ball_Launcher.BP_Ball_Launcher_C:ExecuteUbergraph_BP_Ball_Launcher
+
+[2019.03.19-22.46.14:292][857]LogScript: Warning: Accessed None
+	BP_Ball_Launcher_C /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.BP_Ball_Launcher2
+	Function /Game/VirtualRealityBP/Blueprints/Props/BP_Ball_Launcher.BP_Ball_Launcher_C:ExecuteUbergraph_BP_Ball_Launcher:04ED
+[2019.03.19-22.46.14:292][857]LogScript: Warning: Script call stack:
+	Function /Game/VirtualRealityBP/Blueprints/Props/BP_Ball_Launcher.BP_Ball_Launcher_C:Timeline_0__UpdateFunc
+	Function /Game/VirtualRealityBP/Blueprints/Props/BP_Ball_Launcher.BP_Ball_Launcher_C:ExecuteUbergraph_BP_Ball_Launcher
+
+[2019.03.19-22.46.14:292][857]LogScript: Warning: Attempted to access BP_Tennis_Ball_C_44 via property CallFunc_FinishSpawningActor_ReturnValue, but BP_Tennis_Ball_C_44 is pending kill
+	BP_Ball_Launcher_C /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.BP_Ball_Launcher2
+	Function /Game/VirtualRealityBP/Blueprints/Props/BP_Ball_Launcher.BP_Ball_Launcher_C:ExecuteUbergraph_BP_Ball_Launcher:0566
+[2019.03.19-22.46.14:292][857]LogScript: Warning: Script call stack:
+	Function /Game/VirtualRealityBP/Blueprints/Props/BP_Ball_Launcher.BP_Ball_Launcher_C:Timeline_0__UpdateFunc
+	Function /Game/VirtualRealityBP/Blueprints/Props/BP_Ball_Launcher.BP_Ball_Launcher_C:ExecuteUbergraph_BP_Ball_Launcher
+
+[2019.03.19-22.46.14:292][857]LogScript: Warning: Accessed None
+	BP_Ball_Launcher_C /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.BP_Ball_Launcher2
+	Function /Game/VirtualRealityBP/Blueprints/Props/BP_Ball_Launcher.BP_Ball_Launcher_C:ExecuteUbergraph_BP_Ball_Launcher:057B
+[2019.03.19-22.46.14:292][857]LogScript: Warning: Script call stack:
+	Function /Game/VirtualRealityBP/Blueprints/Props/BP_Ball_Launcher.BP_Ball_Launcher_C:Timeline_0__UpdateFunc
+	Function /Game/VirtualRealityBP/Blueprints/Props/BP_Ball_Launcher.BP_Ball_Launcher_C:ExecuteUbergraph_BP_Ball_Launcher
+
+[2019.03.19-22.46.14:303][858]LogScript: Warning: Attempted to access BP_Tennis_Ball_C_44 via property CallFunc_FinishSpawningActor_ReturnValue, but BP_Tennis_Ball_C_44 is pending kill
+	BP_Ball_Launcher_C /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.BP_Ball_Launcher2
+	Function /Game/VirtualRealityBP/Blueprints/Props/BP_Ball_Launcher.BP_Ball_Launcher_C:ExecuteUbergraph_BP_Ball_Launcher:04D8
+[2019.03.19-22.46.14:303][858]LogScript: Warning: Script call stack:
+	Function /Game/VirtualRealityBP/Blueprints/Props/BP_Ball_Launcher.BP_Ball_Launcher_C:Timeline_0__UpdateFunc
+	Function /Game/VirtualRealityBP/Blueprints/Props/BP_Ball_Launcher.BP_Ball_Launcher_C:ExecuteUbergraph_BP_Ball_Launcher
+
+[2019.03.19-22.46.14:303][858]LogScript: Warning: Accessed None
+	BP_Ball_Launcher_C /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.BP_Ball_Launcher2
+	Function /Game/VirtualRealityBP/Blueprints/Props/BP_Ball_Launcher.BP_Ball_Launcher_C:ExecuteUbergraph_BP_Ball_Launcher:04ED
+[2019.03.19-22.46.14:304][858]LogScript: Warning: Script call stack:
+	Function /Game/VirtualRealityBP/Blueprints/Props/BP_Ball_Launcher.BP_Ball_Launcher_C:Timeline_0__UpdateFunc
+	Function /Game/VirtualRealityBP/Blueprints/Props/BP_Ball_Launcher.BP_Ball_Launcher_C:ExecuteUbergraph_BP_Ball_Launcher
+
+[2019.03.19-22.46.14:304][858]LogScript: Warning: Attempted to access BP_Tennis_Ball_C_44 via property CallFunc_FinishSpawningActor_ReturnValue, but BP_Tennis_Ball_C_44 is pending kill
+	BP_Ball_Launcher_C /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.BP_Ball_Launcher2
+	Function /Game/VirtualRealityBP/Blueprints/Props/BP_Ball_Launcher.BP_Ball_Launcher_C:ExecuteUbergraph_BP_Ball_Launcher:0566
+[2019.03.19-22.46.14:304][858]LogScript: Warning: Script call stack:
+	Function /Game/VirtualRealityBP/Blueprints/Props/BP_Ball_Launcher.BP_Ball_Launcher_C:Timeline_0__UpdateFunc
+	Function /Game/VirtualRealityBP/Blueprints/Props/BP_Ball_Launcher.BP_Ball_Launcher_C:ExecuteUbergraph_BP_Ball_Launcher
+
+[2019.03.19-22.46.14:304][858]LogScript: Warning: Accessed None
+	BP_Ball_Launcher_C /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.BP_Ball_Launcher2
+	Function /Game/VirtualRealityBP/Blueprints/Props/BP_Ball_Launcher.BP_Ball_Launcher_C:ExecuteUbergraph_BP_Ball_Launcher:057B
+[2019.03.19-22.46.14:304][858]LogScript: Warning: Script call stack:
+	Function /Game/VirtualRealityBP/Blueprints/Props/BP_Ball_Launcher.BP_Ball_Launcher_C:Timeline_0__UpdateFunc
+	Function /Game/VirtualRealityBP/Blueprints/Props/BP_Ball_Launcher.BP_Ball_Launcher_C:ExecuteUbergraph_BP_Ball_Launcher
+
+[2019.03.19-22.46.14:315][859]LogScript: Warning: Attempted to access BP_Tennis_Ball_C_44 via property CallFunc_FinishSpawningActor_ReturnValue, but BP_Tennis_Ball_C_44 is pending kill
+	BP_Ball_Launcher_C /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.BP_Ball_Launcher2
+	Function /Game/VirtualRealityBP/Blueprints/Props/BP_Ball_Launcher.BP_Ball_Launcher_C:ExecuteUbergraph_BP_Ball_Launcher:04D8
+[2019.03.19-22.46.14:315][859]LogScript: Warning: Script call stack:
+	Function /Game/VirtualRealityBP/Blueprints/Props/BP_Ball_Launcher.BP_Ball_Launcher_C:Timeline_0__UpdateFunc
+	Function /Game/VirtualRealityBP/Blueprints/Props/BP_Ball_Launcher.BP_Ball_Launcher_C:ExecuteUbergraph_BP_Ball_Launcher
+
+[2019.03.19-22.46.14:315][859]LogScript: Warning: Accessed None
+	BP_Ball_Launcher_C /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.BP_Ball_Launcher2
+	Function /Game/VirtualRealityBP/Blueprints/Props/BP_Ball_Launcher.BP_Ball_Launcher_C:ExecuteUbergraph_BP_Ball_Launcher:04ED
+[2019.03.19-22.46.14:315][859]LogScript: Warning: Script call stack:
+	Function /Game/VirtualRealityBP/Blueprints/Props/BP_Ball_Launcher.BP_Ball_Launcher_C:Timeline_0__UpdateFunc
+	Function /Game/VirtualRealityBP/Blueprints/Props/BP_Ball_Launcher.BP_Ball_Launcher_C:ExecuteUbergraph_BP_Ball_Launcher
+
+[2019.03.19-22.46.14:315][859]LogScript: Warning: Attempted to access BP_Tennis_Ball_C_44 via property CallFunc_FinishSpawningActor_ReturnValue, but BP_Tennis_Ball_C_44 is pending kill
+	BP_Ball_Launcher_C /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.BP_Ball_Launcher2
+	Function /Game/VirtualRealityBP/Blueprints/Props/BP_Ball_Launcher.BP_Ball_Launcher_C:ExecuteUbergraph_BP_Ball_Launcher:0566
+[2019.03.19-22.46.14:315][859]LogScript: Warning: Script call stack:
+	Function /Game/VirtualRealityBP/Blueprints/Props/BP_Ball_Launcher.BP_Ball_Launcher_C:Timeline_0__UpdateFunc
+	Function /Game/VirtualRealityBP/Blueprints/Props/BP_Ball_Launcher.BP_Ball_Launcher_C:ExecuteUbergraph_BP_Ball_Launcher
+
+[2019.03.19-22.46.14:315][859]LogScript: Warning: Accessed None
+	BP_Ball_Launcher_C /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.BP_Ball_Launcher2
+	Function /Game/VirtualRealityBP/Blueprints/Props/BP_Ball_Launcher.BP_Ball_Launcher_C:ExecuteUbergraph_BP_Ball_Launcher:057B
+[2019.03.19-22.46.14:315][859]LogScript: Warning: Script call stack:
+	Function /Game/VirtualRealityBP/Blueprints/Props/BP_Ball_Launcher.BP_Ball_Launcher_C:Timeline_0__UpdateFunc
+	Function /Game/VirtualRealityBP/Blueprints/Props/BP_Ball_Launcher.BP_Ball_Launcher_C:ExecuteUbergraph_BP_Ball_Launcher
+
+[2019.03.19-22.46.14:736][897]LogBlueprintUserMessages: [BP_SkeeballAlley] 4
+[2019.03.19-22.46.15:737][987]LogBlueprintUserMessages: [BP_SkeeballAlley] 4
+[2019.03.19-22.46.16:736][ 77]LogBlueprintUserMessages: [BP_SkeeballAlley] 4
+[2019.03.19-22.46.17:748][168]LogBlueprintUserMessages: [BP_SkeeballAlley] 4
+[2019.03.19-22.46.18:747][258]LogBlueprintUserMessages: [BP_SkeeballAlley] 4
+[2019.03.19-22.46.19:747][348]LogBlueprintUserMessages: [BP_SkeeballAlley] 4
+[2019.03.19-22.46.20:759][439]LogBlueprintUserMessages: [BP_SkeeballAlley] 4
+[2019.03.19-22.46.21:770][530]LogBlueprintUserMessages: [BP_SkeeballAlley] 4
+[2019.03.19-22.46.22:770][620]LogBlueprintUserMessages: [BP_SkeeballAlley] 4
+[2019.03.19-22.46.23:781][711]LogBlueprintUserMessages: [BP_SkeeballAlley] 4
+[2019.03.19-22.46.24:781][801]LogBlueprintUserMessages: [BP_SkeeballAlley] 4
+[2019.03.19-22.46.25:782][891]LogBlueprintUserMessages: [BP_SkeeballAlley] 4
+[2019.03.19-22.46.26:792][982]LogBlueprintUserMessages: [BP_SkeeballAlley] 4
+[2019.03.19-22.46.27:793][ 72]LogBlueprintUserMessages: [BP_SkeeballAlley] 4
+[2019.03.19-22.46.28:792][162]LogBlueprintUserMessages: [BP_SkeeballAlley] 4
+[2019.03.19-22.46.29:792][252]LogBlueprintUserMessages: [BP_SkeeballAlley] 4
+[2019.03.19-22.46.30:793][342]LogBlueprintUserMessages: [BP_SkeeballAlley] 4
+[2019.03.19-22.46.31:804][433]LogBlueprintUserMessages: [BP_SkeeballAlley] 4
+[2019.03.19-22.46.32:804][523]LogBlueprintUserMessages: [BP_SkeeballAlley] 4
+[2019.03.19-22.46.33:816][614]LogBlueprintUserMessages: [BP_SkeeballAlley] 4
+[2019.03.19-22.46.34:827][705]LogBlueprintUserMessages: [BP_SkeeballAlley] 4
+[2019.03.19-22.46.35:837][794]LogBlueprintUserMessages: [BP_SkeeballAlley] 4
+[2019.03.19-22.46.36:837][884]LogBlueprintUserMessages: [BP_SkeeballAlley] 4
+[2019.03.19-22.46.37:849][975]LogBlueprintUserMessages: [BP_SkeeballAlley] 4
+[2019.03.19-22.46.38:849][ 65]LogBlueprintUserMessages: [BP_SkeeballAlley] 4
+[2019.03.19-22.46.39:848][155]LogBlueprintUserMessages: [BP_SkeeballAlley] 4
+[2019.03.19-22.46.40:849][245]LogBlueprintUserMessages: [BP_SkeeballAlley] 4
+[2019.03.19-22.46.41:860][336]LogBlueprintUserMessages: [BP_SkeeballAlley] 4
+[2019.03.19-22.46.42:871][427]LogBlueprintUserMessages: [BP_SkeeballAlley] 4
+[2019.03.19-22.46.43:871][517]LogBlueprintUserMessages: [BP_SkeeballAlley] 4
+[2019.03.19-22.46.44:871][607]LogBlueprintUserMessages: [BP_SkeeballAlley] 4
+[2019.03.19-22.46.45:871][697]LogBlueprintUserMessages: [BP_SkeeballAlley] 4
+[2019.03.19-22.46.46:871][787]LogBlueprintUserMessages: [BP_SkeeballAlley] 4
+[2019.03.19-22.46.47:871][877]LogBlueprintUserMessages: [BP_SkeeballAlley] 4
+[2019.03.19-22.46.48:872][966]LogBlueprintUserMessages: [BP_SkeeballAlley] 4
+[2019.03.19-22.46.49:882][ 57]LogBlueprintUserMessages: [BP_SkeeballAlley] 4
+[2019.03.19-22.46.50:882][147]LogBlueprintUserMessages: [BP_SkeeballAlley] 4
+[2019.03.19-22.46.51:882][237]LogBlueprintUserMessages: [BP_SkeeballAlley] 4
+[2019.03.19-22.46.52:882][327]LogBlueprintUserMessages: [BP_SkeeballAlley] 4
+[2019.03.19-22.46.53:894][418]LogBlueprintUserMessages: [BP_SkeeballAlley] 4
+[2019.03.19-22.46.54:894][508]LogBlueprintUserMessages: [BP_SkeeballAlley] 4
+[2019.03.19-22.46.55:905][598]LogBlueprintUserMessages: [BP_SkeeballAlley] 4
+[2019.03.19-22.46.56:905][688]LogBlueprintUserMessages: [BP_SkeeballAlley] 4
+[2019.03.19-22.46.57:905][778]LogBlueprintUserMessages: [BP_SkeeballAlley] 4
+[2019.03.19-22.46.58:916][869]LogBlueprintUserMessages: [BP_SkeeballAlley] 4
+[2019.03.19-22.46.59:916][959]LogBlueprintUserMessages: [BP_SkeeballAlley] 4
+[2019.03.19-22.47.00:916][ 48]LogBlueprintUserMessages: [BP_SkeeballAlley] 4
+[2019.03.19-22.47.01:916][136]LogBlueprintUserMessages: [BP_SkeeballAlley] 4
+[2019.03.19-22.47.02:927][227]LogBlueprintUserMessages: [BP_SkeeballAlley] 4
+[2019.03.19-22.47.03:927][317]LogBlueprintUserMessages: [BP_SkeeballAlley] 4
+[2019.03.19-22.47.04:939][408]LogBlueprintUserMessages: [BP_SkeeballAlley] 4
+[2019.03.19-22.47.05:939][498]LogBlueprintUserMessages: [BP_SkeeballAlley] 4
+[2019.03.19-22.47.06:938][588]LogBlueprintUserMessages: [BP_SkeeballAlley] 4
+[2019.03.19-22.47.07:939][676]LogBlueprintUserMessages: [BP_SkeeballAlley] 4
+[2019.03.19-22.47.08:939][766]LogBlueprintUserMessages: [BP_SkeeballAlley] 4
+[2019.03.19-22.47.09:938][856]LogBlueprintUserMessages: [BP_SkeeballAlley] 4
+[2019.03.19-22.47.10:939][946]LogBlueprintUserMessages: [BP_SkeeballAlley] 4
+[2019.03.19-22.47.11:950][ 37]LogBlueprintUserMessages: [BP_SkeeballAlley] 4
+[2019.03.19-22.47.12:950][127]LogBlueprintUserMessages: [BP_SkeeballAlley] 4
+[2019.03.19-22.47.13:950][217]LogBlueprintUserMessages: [BP_SkeeballAlley] 4
+[2019.03.19-22.47.14:950][307]LogBlueprintUserMessages: [BP_SkeeballAlley] 4
+[2019.03.19-22.47.15:950][397]LogBlueprintUserMessages: [BP_SkeeballAlley] 4
+[2019.03.19-22.47.16:950][487]LogBlueprintUserMessages: [BP_SkeeballAlley] 4
+[2019.03.19-22.47.17:951][577]LogBlueprintUserMessages: [BP_SkeeballAlley] 4
+[2019.03.19-22.47.18:950][667]LogBlueprintUserMessages: [BP_SkeeballAlley] 4
+[2019.03.19-22.47.19:961][758]LogBlueprintUserMessages: [BP_SkeeballAlley] 4
+[2019.03.19-22.47.20:961][848]LogBlueprintUserMessages: [BP_SkeeballAlley] 4
+[2019.03.19-22.47.21:962][938]LogBlueprintUserMessages: [BP_SkeeballAlley] 4
+[2019.03.19-22.47.22:962][ 27]LogBlueprintUserMessages: [BP_SkeeballAlley] 4
+[2019.03.19-22.47.23:962][117]LogBlueprintUserMessages: [BP_SkeeballAlley] 4
+[2019.03.19-22.47.24:962][207]LogBlueprintUserMessages: [BP_SkeeballAlley] 4
+[2019.03.19-22.47.25:973][298]LogBlueprintUserMessages: [BP_SkeeballAlley] 4
+[2019.03.19-22.47.26:973][388]LogBlueprintUserMessages: [BP_SkeeballAlley] 4
+[2019.03.19-22.47.27:984][479]LogBlueprintUserMessages: [BP_SkeeballAlley] 4
+[2019.03.19-22.47.28:985][569]LogBlueprintUserMessages: [BP_SkeeballAlley] 4
+[2019.03.19-22.47.29:996][659]LogBlueprintUserMessages: [BP_SkeeballAlley] 4
+[2019.03.19-22.47.31:006][750]LogBlueprintUserMessages: [BP_SkeeballAlley] 4
+[2019.03.19-22.47.32:007][834]LogBlueprintUserMessages: [BP_SkeeballAlley] 4
+[2019.03.19-22.47.33:017][923]LogBlueprintUserMessages: [BP_SkeeballAlley] 4
+[2019.03.19-22.47.34:017][ 11]LogBlueprintUserMessages: [BP_SkeeballAlley] 4
+[2019.03.19-22.47.35:018][100]LogBlueprintUserMessages: [BP_SkeeballAlley] 4
+[2019.03.19-22.47.36:018][190]LogBlueprintUserMessages: [BP_SkeeballAlley] 4
+[2019.03.19-22.47.37:029][280]LogBlueprintUserMessages: [BP_SkeeballAlley] 4
+[2019.03.19-22.47.38:029][370]LogBlueprintUserMessages: [BP_SkeeballAlley] 4
+[2019.03.19-22.47.39:028][460]LogBlueprintUserMessages: [BP_SkeeballAlley] 4
+[2019.03.19-22.47.40:029][550]LogBlueprintUserMessages: [BP_SkeeballAlley] 4
+[2019.03.19-22.47.41:029][640]LogBlueprintUserMessages: [BP_SkeeballAlley] 4
+[2019.03.19-22.47.42:029][730]LogBlueprintUserMessages: [BP_SkeeballAlley] 4
+[2019.03.19-22.47.43:029][820]LogBlueprintUserMessages: [BP_SkeeballAlley] 4
+[2019.03.19-22.47.44:040][910]LogBlueprintUserMessages: [BP_SkeeballAlley] 4
+[2019.03.19-22.47.45:041][  0]LogBlueprintUserMessages: [BP_SkeeballAlley] 4
+[2019.03.19-22.47.46:051][ 90]LogBlueprintUserMessages: [BP_SkeeballAlley] 4
+[2019.03.19-22.47.47:062][180]LogBlueprintUserMessages: [BP_SkeeballAlley] 4
+[2019.03.19-22.47.48:062][264]LogBlueprintUserMessages: [BP_SkeeballAlley] 4
+[2019.03.19-22.47.49:062][353]LogBlueprintUserMessages: [BP_SkeeballAlley] 4
+[2019.03.19-22.47.50:073][444]LogBlueprintUserMessages: [BP_SkeeballAlley] 4
+[2019.03.19-22.47.51:073][534]LogBlueprintUserMessages: [BP_SkeeballAlley] 4
+[2019.03.19-22.47.52:084][625]LogBlueprintUserMessages: [BP_SkeeballAlley] 4
+[2019.03.19-22.47.53:084][715]LogBlueprintUserMessages: [BP_SkeeballAlley] 4
+[2019.03.19-22.47.54:096][806]LogBlueprintUserMessages: [BP_SkeeballAlley] 4
+[2019.03.19-22.47.55:096][896]LogBlueprintUserMessages: [BP_SkeeballAlley] 4
+[2019.03.19-22.47.55:873][966]LogSlate: Request Window 'VR_Interactions2 (64-bit Development PCD3D_SM5) ' being destroyed
+[2019.03.19-22.47.55:907][966]LogSlate: Window 'VR_Interactions2 (64-bit Development PCD3D_SM5) ' being destroyed
+[2019.03.19-22.47.55:910][966]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.19-22.47.55:910][966]LogEngine: All Windows Closed
+[2019.03.19-22.47.55:910][966]LogWindows: FPlatformMisc::RequestExit(0)
+[2019.03.19-22.47.56:585][967]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.03.19-22.47.56:608][967]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2019.03.19-22.47.56:608][967]LogExit: Preparing to exit.
+[2019.03.19-22.47.56:608][967]LogMoviePlayer: Shutting down movie player
+[2019.03.19-22.47.56:612][967]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.19-22.47.56:616][967]LogExit: Game engine shut down
+[2019.03.19-22.47.56:648][967]LogExit: Object subsystem successfully closed.
+[2019.03.19-22.47.56:660][967]LogD3D11RHI: Shutdown
+[2019.03.19-22.47.56:660][967]LogD3D11RHI: CleanupD3DDevice
+[2019.03.19-22.47.56:662][967]LogD3D11RHI: ~FD3D11DynamicRHI
+[2019.03.19-22.47.56:662][967]LogModuleManager: Shutting down and abandoning module AutomationController (198)
+[2019.03.19-22.47.56:662][967]LogModuleManager: Shutting down and abandoning module AutomationWorker (196)
+[2019.03.19-22.47.56:662][967]LogModuleManager: Shutting down and abandoning module Voice (194)
+[2019.03.19-22.47.56:662][967]LogModuleManager: Shutting down and abandoning module AIModule (192)
+[2019.03.19-22.47.56:662][967]LogModuleManager: Shutting down and abandoning module GameplayDebugger (191)
+[2019.03.19-22.47.56:662][967]LogModuleManager: Shutting down and abandoning module NavigationSystem (189)
+[2019.03.19-22.47.56:662][967]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (186)
+[2019.03.19-22.47.56:662][967]LogModuleManager: Shutting down and abandoning module WebMMedia (184)
+[2019.03.19-22.47.56:662][967]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (182)
+[2019.03.19-22.47.56:662][967]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (180)
+[2019.03.19-22.47.56:662][967]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (178)
+[2019.03.19-22.47.56:662][967]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (176)
+[2019.03.19-22.47.56:662][967]LogModuleManager: Shutting down and abandoning module CharacterAI (174)
+[2019.03.19-22.47.56:662][967]LogModuleManager: Shutting down and abandoning module SessionServices (172)
+[2019.03.19-22.47.56:662][967]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (170)
+[2019.03.19-22.47.56:662][967]LogModuleManager: Shutting down and abandoning module MovieScene (168)
+[2019.03.19-22.47.56:662][967]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (166)
+[2019.03.19-22.47.56:662][967]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (164)
+[2019.03.19-22.47.56:663][967]LogModuleManager: Shutting down and abandoning module ProfilerService (162)
+[2019.03.19-22.47.56:736][967]LogModuleManager: Shutting down and abandoning module TaskGraph (160)
+[2019.03.19-22.47.56:736][967]LogModuleManager: Shutting down and abandoning module SteamVRController (158)
+[2019.03.19-22.47.56:736][967]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (156)
+[2019.03.19-22.47.56:736][967]LogModuleManager: Shutting down and abandoning module OculusInput (154)
+[2019.03.19-22.47.56:736][967]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (152)
+[2019.03.19-22.47.56:736][967]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (150)
+[2019.03.19-22.47.56:736][967]LogModuleManager: Shutting down and abandoning module CableComponent (148)
+[2019.03.19-22.47.56:736][967]LogModuleManager: Shutting down and abandoning module AudioCapture (146)
+[2019.03.19-22.47.56:736][967]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (144)
+[2019.03.19-22.47.56:736][967]LogModuleManager: Shutting down and abandoning module AndroidPermission (142)
+[2019.03.19-22.47.56:736][967]LogModuleManager: Shutting down and abandoning module MediaCompositing (140)
+[2019.03.19-22.47.56:736][967]LogModuleManager: Shutting down and abandoning module LinearTimecode (138)
+[2019.03.19-22.47.56:736][967]LogModuleManager: Shutting down and abandoning module ImgMedia (136)
+[2019.03.19-22.47.56:736][967]LogModuleManager: Shutting down and abandoning module HTML5Networking (134)
+[2019.03.19-22.47.56:736][967]LogModuleManager: Shutting down and abandoning module BackChannel (132)
+[2019.03.19-22.47.56:736][967]LogModuleManager: Shutting down and abandoning module AppleVision (130)
+[2019.03.19-22.47.56:736][967]LogModuleManager: Shutting down and abandoning module AppleImageUtils (128)
+[2019.03.19-22.47.56:736][967]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (126)
+[2019.03.19-22.47.56:737][967]LogModuleManager: Shutting down and abandoning module GeometryCache (124)
+[2019.03.19-22.47.56:737][967]LogModuleManager: Shutting down and abandoning module VariantManagerContent (122)
+[2019.03.19-22.47.56:737][967]LogModuleManager: Shutting down and abandoning module EditableMesh (120)
+[2019.03.19-22.47.56:737][967]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (118)
+[2019.03.19-22.47.56:737][967]LogModuleManager: Shutting down and abandoning module PhysXVehicles (116)
+[2019.03.19-22.47.56:737][967]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (114)
+[2019.03.19-22.47.56:737][967]LogModuleManager: Shutting down and abandoning module ActorSequence (112)
+[2019.03.19-22.47.56:737][967]LogModuleManager: Shutting down and abandoning module UdpMessaging (110)
+[2019.03.19-22.47.56:737][967]LogModuleManager: Shutting down and abandoning module TcpMessaging (108)
+[2019.03.19-22.47.56:737][967]LogModuleManager: Shutting down and abandoning module FacialAnimation (106)
+[2019.03.19-22.47.56:737][967]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (104)
+[2019.03.19-22.47.56:737][967]LogModuleManager: Shutting down and abandoning module AISupportModule (102)
+[2019.03.19-22.47.56:737][967]LogModuleManager: Shutting down and abandoning module Paper2D (100)
+[2019.03.19-22.47.56:737][967]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (98)
+[2019.03.19-22.47.56:737][967]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (96)
+[2019.03.19-22.47.56:737][967]LogModuleManager: Shutting down and abandoning module WmfMedia (94)
+[2019.03.19-22.47.56:738][967]LogModuleManager: Shutting down and abandoning module Media (93)
+[2019.03.19-22.47.56:744][967]LogModuleManager: Shutting down and abandoning module PacketHandler (90)
+[2019.03.19-22.47.56:744][967]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (88)
+[2019.03.19-22.47.56:744][967]LogModuleManager: Shutting down and abandoning module MediaAssets (86)
+[2019.03.19-22.47.56:744][967]LogModuleManager: Shutting down and abandoning module Overlay (84)
+[2019.03.19-22.47.56:744][967]LogModuleManager: Shutting down and abandoning module UMG (82)
+[2019.03.19-22.47.56:744][967]LogModuleManager: Shutting down and abandoning module SlateReflector (80)
+[2019.03.19-22.47.56:744][967]LogModuleManager: Shutting down and abandoning module Slate (78)
+[2019.03.19-22.47.56:744][967]LogModuleManager: Shutting down and abandoning module MRMesh (76)
+[2019.03.19-22.47.56:744][967]LogModuleManager: Shutting down and abandoning module Messaging (74)
+[2019.03.19-22.47.56:744][967]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (72)
+[2019.03.19-22.47.56:744][967]LogModuleManager: Shutting down and abandoning module XAudio2 (70)
+[2019.03.19-22.47.56:744][967]LogModuleManager: Shutting down and abandoning module Networking (68)
+[2019.03.19-22.47.56:744][967]LogModuleManager: Shutting down and abandoning module Core (66)
+[2019.03.19-22.47.56:744][967]LogModuleManager: Shutting down and abandoning module LevelSequence (64)
+[2019.03.19-22.47.56:744][967]LogModuleManager: Shutting down and abandoning module ImageWrapper (60)
+[2019.03.19-22.47.56:744][967]LogModuleManager: Shutting down and abandoning module InputCore (58)
+[2019.03.19-22.47.56:744][967]LogModuleManager: Shutting down and abandoning module PhysXCooking (56)
+[2019.03.19-22.47.56:744][967]LogModuleManager: Shutting down and abandoning module SteamVR (54)
+[2019.03.19-22.47.56:744][967]LogHMD: Freeing OpenVRDLLHandle.
+[2019.03.19-22.47.56:744][967]LogModuleManager: Shutting down and abandoning module OculusHMD (52)
+[2019.03.19-22.47.56:744][967]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (50)
+[2019.03.19-22.47.56:744][967]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (48)
+[2019.03.19-22.47.56:744][967]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (44)
+[2019.03.19-22.47.56:744][967]LogModuleManager: Shutting down and abandoning module HTTP (39)
+[2019.03.19-22.47.56:777][967]LogModuleManager: Shutting down and abandoning module SSL (38)
+[2019.03.19-22.47.56:777][967]LogModuleManager: Shutting down and abandoning module DatasmithContent (34)
+[2019.03.19-22.47.56:777][967]LogModuleManager: Shutting down and abandoning module WindowsMixedRealitySpatialInput (32)
+[2019.03.19-22.47.56:777][967]LogModuleManager: Shutting down and abandoning module WindowsMixedRealityHMD (30)
+[2019.03.19-22.47.56:777][967]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2019.03.19-22.47.56:777][967]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2019.03.19-22.47.56:777][967]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2019.03.19-22.47.56:778][967]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2019.03.19-22.47.56:778][967]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2019.03.19-22.47.56:778][967]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2019.03.19-22.47.56:778][967]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2019.03.19-22.47.56:778][967]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2019.03.19-22.47.56:778][967]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2019.03.19-22.47.56:778][967]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2019.03.19-22.47.56:778][967]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2019.03.19-22.47.56:778][967]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2019.03.19-22.47.56:778][967]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2019.03.19-22.47.56:778][967]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2019.03.19-22.47.56:780][967]LogExit: Exiting.
+[2019.03.19-22.47.56:788][967]Log file closed, 03/19/19 18:47:56
